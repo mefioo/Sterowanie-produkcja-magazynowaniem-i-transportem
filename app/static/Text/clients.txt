@@ -1,0 +1,731 @@
+Nazwa;Adres;Miejscowość;NIP
+KAUFLAND POLSKA MARKETY Sp. z o.o. Sp.k.;Armii Krajowej Al. 47 ;Wrocław;899-23-67-273
+Zespół Elekrociepłowni Wrocławskich KOGENERACJA S.;Łowiecka  24;Wrocław;896-000-00-32
+Cargilll Poland Sp. z o.o. Oddział w Bielanach Wr;Macmillan 1 Bielany Wrocławskie ;Kobierzyce;525-23-93-332
+GMINA WROCŁAW;pl.Nowy Targ 1-8 ;Wrocław;8971383551
+Apleona HSG Sp. z o.o.;Wołoska 24 ;Warszawa;779-20-88-473
+IPF SERVICE Sp. z o.o.;Niepruszewo Leśna 26 ;Buk;7831761076
+Sodexo Polska Sp. z o.o.;Jutrzenki 137 ;Warszawa;118-00-38-498
+DS Smith Polska sp. z o.o.;17 Stycznia 45 D;Warszawa;9511589286
+WTB INSTALACJE - Paweł Knysz;al. Jana Kochanowskiego 72 ;Wrocław;6121531484
+ULTRANET Sp. z o.o.;Strzegomska 138 ;Wrocław;899-23-90-332
+Port Lotniczy Wrocław S.A.;Graniczna 190 ;Wrocław;896-000-62-82
+Wspólnota Mieszkaniowa Promenady Wrocławskie IV;Zakładowa 7-7c, 9-9e ;Wrocław;8952131707
+Wspólnota Mieszkaniowa Promenady Wrocławskie II;Zakładowa 11-11y ;Wrocław;8952042470
+Makro Cash and Carry Polska SA;Al.Krakowska 61 ;Warszawa;522-000-28-60
+W.P.B.M. MÓJ DOM SA;Powstańców Śląskich 2-4 ;Wrocław;897-11-69-740
+ADAR Adam Dudek;Holenderska 10 ;Jelcz-Laskowice;912-135-09-04
+DONG YANG Electronics Sp. z o.o.;Współpracy 3, Biskupice Podgórne ;Kobierzyce;5691747720
+BFF INVESTMENTS POLSKA SP. z o.o.;Strzegomska 46-56;Wrocław;8942888188
+KALIZEA Polska Sp. z o.o.;Polna 8a ;Siechnice;8992522360
+DEVCO Sp. z o.o.;Strzegomska 46-56 ;Wrocław;894-24-18-206
+D+H Polska Sp. z o.o.;Polanowicka Północna 8 ;Wrocław;894-26-48-946
+TAURON Ekoenergia sp. z o.o.;Obrońców Pokoju 2B ;Jelenia Góra;611-25-02-075
+WSPÓLNOTA MIESZKANIOWA PRZY UL. ZAKŁADOWEJ 16 18af;Zakładowa 16,18,18a-f ;Wrocław;8952214244
+ABM alarm Jan Kalin;Wygodna 2 ;Wrocław;898-103-68-97
+Schavemaker Poland Sp. z o.o.;Popiełuszki 28 ;Kąty Wrocławskie;896-137-65-49
+PRZEDSIĘBIORSTWO USŁUG KOMUNALNYCH FEB-EKO Sp z o.;Stanowice, Olchowa 1 ;Oława;9121813273
+Skup Surowców Wtórnych Adam Michalak;Osadnicza BRAK;Milicz;9161166928
+WSPÓLNOTA MIESZKANIOWA APARTAMENTY STRZEGOMSKA;Strzegomska 202, Estońska 44 ;Wrocław;8942961844
+BLACK POINT SPÓŁKA AKCYJNA;Atramentowa 5;Bielany Wrocławskie;8980013954
+SAD - BUD PIOTR SADURA;Metalowców 11/28;Stalowa Wola;8652052613
+SEKA S.A.;Michała Paca 37 ;Warszawa;113-01-22-021
+Wspólnota Mieszkaniowa przy ul.Walońskiej 7-13;Walońska 7-13;Wrocław;897-17-72-910
+SPOŁEM PSS POŁUDNIE we Wrocławiu;Podwale 37/38 ;Wrocław;896-000-31-54
+SYSTEMS ELECTRONIC JERZY LORKOWSKI;Racławicka 15/19;Wrocław;8991489904
+WSPÓLNOTA MIESZKANIOWA UL. ZIELNA 19-21 WROCŁAW;al. gen. Józefa Hallera 84/2;Wrocław;8943081631
+CEDO Spólka z o.o.;Nowowiejska  32;Kąty Wrocławskie;913-00-05-696
+WM Promenady Wr IX, UL. SŁONIMSKIEGO5, 7, 9, 11, ;Słonimskiego 5-11, Zakładowa 20A-20F ;Wrocław;8952218302
+"PRZEDSIĘBIORSTWO HANDLOWO-USŁUGOWE ""LiR""";Oleśnicka 6 ;Oława;912-17-17-090
+"Wspólnota Mieszkaniowa ""Strzegomska 42""";Strzegomska 42-42N ;Wrocław;894-299-76-06
+;;;
+WSPÓLNOTA MIESZKANIOWA UL. FARNA 7-9 WROCŁAW;al. gen. Józefa Hallera 84/2;Wrocław;8943128551
+WSPÓLNOTA MIESZKANIOWA PRZU UL. KRZYCKIEJ 92 BCD ;Skarbowców 94c ;Wrocław;8992736977
+WSPÓLNOTA MIESZKANIOWA UL. KAWALERZYSTÓW 1-39;al. gen. Józefa Hallera 84/2;Wrocław;8992653091
+Superhobby Market Budowlany Sp. zoo;al.Krakowska 102 ;Warszawa;951-10-08-094
+FM Solutions Sp. z o.o.;Sternbacha 1 ;Kraków;6793097723
+ROMA Roma Szymakowska;Ludwika Nabielaka 6a ;Wrocław;925-142-33-69
+WOMAR spółka z ograniczoną odpowiedzialnością sp.k;Przykopy 5 ;Kraków;6791010310
+Sąd Rejonowy dla Wrocławia-Krzyków we Wrocławiu;Podwale 30 ;Wrocław;896-10-03-995
+TOPACZ INVESTMENTS Sp. z o.o.;Księcia Witolda 1 ;Wrocław;8961338394
+"FIRMA HANDLOWO - USŁUGOWA ""RAFBACH"" RAFAŁ BACH";Przedmieście 9;Łęg Tarnowski;8691387737
+Unia Sp. z o.o.;Mireckiego 30 ;Kąty Wrocławskie;894-305-01-80
+ADMI Sp. z o.o.;pl.Solny 16 ;Wrocław;897-10-00-633
+WM „Racławicka 71-97”;Skarbowców 94C ;Wrocław;8992710417
+Multilayer Pipe Company Sp. z o.o.;Pęcz 59 ;Strzelin;914-13-38-941
+WM UL.STABŁOWICKA 98-110 WROCŁAW;al. gen. Józefa Hallera 84/2;Wrocław;8992742529
+ESV S.A.;Ciepłownicza 1A ;Siechnice;8980025644
+Witold Deryło Bezpieczeństwo Pożarowe; ;;9121064989
+PROJPRZEM BUDOWNICTWO Sp. z o.o.;Pl. Kościeleckich 3 ;Bydgoszcz;5542923028
+HIRSCH POROZELL Sp. z o.o.;Kiełczowska 54 ;Wrocław;8982018140
+FPH MAGNAT sp. j. M.Jarocki, K. Dąbrowski;Sadkówek 10 ;Kąty Wrocławskie;896-11-90-810
+ARS System FM Sp. z o.o. Sp.K.;Wolbromska 17 ;Wrocław;8992853967
+"Wrocławskie Zakłady Zielarskie ""Herbapol"" SA ";św. Mikołaja 65/68;Wrocław;897-10-01-555
+Transport Ciężarowy Andrzej Wichot;Różana 13 ;Święta Katarzyna;912-001-07-21
+DeLaval Operations Sp. z o.o.;Robotnicza 72 ;Wrocław;894-00-06-103
+TRAKCJA Spółka Akcyjna;Jerozolimskie Al. 100 IIp ;Warszawa;525-000-24-39
+"WSPÓLNOTA MIESZKANIOWA ""KSIĘŻNO""";al. gen. Józefa Hallera 84/2;Wrocław;8982252083
+Ośrodek Techniki Jądrowej POLON we Wrocławiu Sp. z;Na Grobli 6 ;Wrocław;899-02-05-017
+WOGAZ Jan Michór;Kwiatowa 8 ;Kąty Wrocławskie;913-000-19-59
+Linde Gaz Polska Sp. z o.o. ;prof.Michała Życzkowskiego 17 ;Kraków;677-00-67-397
+FUNDACJA ZAMKU PIASTÓW ŚLĄSKICH;Katedralna 13-15;Wrocław;8982210653
+Wspólnota Mieszkaniowa  ul. Stefki 42-52;Skarbowców 94 C;Wrocław;8942927296
+Spigiel BM Spółka z ograniczoną odpowiedzialnością;Długołęka Robotnicza 25  ;Mirków;8961543852
+GIS Europe SE ;Jesionowa 22 ;Katowice;1080011324
+"Przedsiębiorstwo Handlowe ""ANDREMAS"" Andrii Masnyi";Borzęcin 55 ;Żmigród;9141543813
+LT PRECISION POLAND Sp. z o.o.;Władysława Grabskiego 2 ;Siechnice;8961566379
+ATM Grupa S.A.; ul.Dwa Światy 1 Bielany Wrocławskie ;Kobierzyce;897-10-08-712
+Wspólnota Mieszkaniowa ul. Dzierżonia 18-18e, Wiej;Dzierżonia 18-18e, Wiejska 9-11a ;Wrocław;8942935189
+AMI SPÓŁKA JAWNA KUBIS, KAMIŃSKI, PYTEL;Szpacza 18-20 ;Wrocław;8942895248
+Forum Zarządzanie Nieruchomościami sp.j.;Skarbowców 94c ;Wrocław;8992846499
+WSPÓLNOTA MIESZKANIOWA KSIĘŻNO I;al. gen. Józefa Hallera 84/2;Wrocław;8982244178
+Przedsiębiorstwo Transportowo-Sprzętowe;Al.Armii Krajowej 53 ;Wrocław;899-22-17-740
+CARINA SILICONES Sp. z o.o.;Polna 14-18 ;Siechnice;884-16-95-714
+Komenda Wojewódzka Państwowej Straży Pożarnej;Borowska 138 ;Wrocław;896-000-50-64
+WM ul. Rodzinna 23-23C, ul. Przyjaźni 52-64A Wrocł;al. gen. Józefa Hallera 84/2;Wrocław;8992741257
+Gmina Żmigród;pl.Wojska Polskiego 2-3 ;Żmigród;915-16-03-741
+NORTECH SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ;Wrocławska 13B ;Radwanice;8942682067
+"Wspólnota Mieszkaniowa ""Grabiszyńska""";Grabiszyńska 83-85B ;Wrocław;8971838684
+TOYA S.A.;Sołtysowicka 13-15 ;Wrocław;895-16-86-107
+Sąd Rejonowy dla Wrocławia-Śródmieścia we Wroc;Podwale 30 ;Wrocław;896-10-03-972
+Daldehog Poland Sp. z o.o.;Leszczynowa 6A, Sękocin Nowy ;Raszyn;586-001-74-22
+RONAL - POLSKA ;Wrocławska 95;Wałbrzych;8971015698
+HOTEL TUMSKI & BARKA TUMSKA Sp. z o.o. S.K.;wyspa Słodowa 10;Wrocław;8982018855
+SĄD REJONOWY DLA WROCŁAWIA-FABRYCZNEJ;Świebodzka 5 ;Wrocław;896-10-03-831
+SCHAVEMAKER INVEST Sp.z o.o.;Fabryczna 1 ;Kąty Wrocławskie;8961373290
+WM UL.A.FREDRY 65,65A,65B,65C,65D,67 ;Galla Anonima 4/LU 2;Wrocław;8992735222
+NOVALIS DARIUSZ LISIAK;Skibowa 32 ;Wrocław;8941003236
+WSPÓLNOTA MIESZKANIOWA UL. BLACHARSKA 32 WROCŁAW;al. gen. Józefa Hallera 84/2;Wrocław;8943032526
+PGE EKOSERWIS Sp. z o.o.;pl. Stanisława Staszica 30 ;Wrocław;8971006564
+Biliński Waldemar;Aleja Piastów 11/1 ;Wrocław;894-008-02-81
+KEA IBB Sp. z o.o. ;Osobowicka 89 ;Wrocław;895-001-32-57
+POLSKIE KOLEJE PAŃSTWOWE SPÓŁKA AKCYJNA;Aleje Jerozolimskie 142A;Warszawa;5250000251
+"Wspólnota Mieszkaniowa ""Marka Hłaski 1""";Marka Hłaski 1 ;Wrocław;894-295-96-23
+A.S. CONSULTING Aleksandra Sokołowska-Stasińska;Jana Pawła II 38/29;Warszawa;899-139-58-01
+"WSPÓLNOTA MIESZKANIOWA ""SŁONECZNE STABŁOWICE 2""";al. gen. Józefa Hallera 84/2;Wrocław;8943094289
+EMC INSTYTUT MEDYCZNY SA;Pilczycka 144-148 ;Wrocław;8942814132
+SONKO Sp. z o.o.;Ryżowa 1 Bielany Wrocławskie ;Kobierzyce;8961504875
+HUBIS DYSTRYBUCJE BUDOWLANE Sp. z o.o. S.K.;ks. Jerzego Popiełuszki 7;Kąty Wrocławskie;8961541020
+WM  UL S.JARACZA 37,37A,37B,37C,37D,37E,37G,37P ;al. gen. Józefa Hallera 84/2;Wrocław;8982219884
+Qubus Hotel Management Sp. z o.o.;Skierniewicka 18 ;Wrocław;599-23-64-600
+Dynamic Congress Centre Sp. z o.o. ;Rakietowa 33 ;Wrocław;8943037529
+Przedsiębiorstwo Produkcyjno-Handlowe Jan Wójcik;Bystrzyca ul. Cmentarna 4 ;Oława 1;912-000-42-06
+KACZMARSKI INKASSO Małgorzata Kaczmarski;Siedzikówny 12 ;Wrocław;899-020-60-28
+Fundacja PRZYJAZNY DOM im.Stanisława Jabłonki;Okulickiego 2 ;Wrocław;898-206-00-30
+P.A. NOVA S.A.;Górnych Wałów 42 ;Gliwice;631-020-04-17
+tenprojekt Anna Owsiany;Zachodnia 10/16;Wrocław;5732413230
+Zakład Gospodarki Komunalnej Sp. z o.o.;Żernicka 17 ;Święta Katarzyna;912-13-91-033
+Wspólnota Mieszkaniowa „ KOWARZYKA 9-17 „;Hugona Kowarzyka 9-17 ;Wrocław;895 218 93 74
+KORF ISOLMATIC SP. Z O.O.;Wojnarowice ul. Lotnicza 12;Sobótka 1;899-02-02-326
+Wspólnota Mieszkaniowa Nyska 70,70a,70b,72-86;Nyska 70,70a,70b,72-86, Armii Krajowej 48b-48h,48m,48n,48p-s ;Wrocław;5252637461
+Wspólnota Mieszkaniowa Osiedle Grafitowe;Semaforowa 19 ;Wrocław;899-274-15-30
+ShellFish Dorota Melska-Ziora;Zagony 34/3;Wrocław;8842257778
+WM RUMIANKOWA 55,55a,b, OBJAZDOWA 54,56,56A,56B ;al. gen. Józefa Hallera 84/2;Wrocław;8943034258
+WSPÓLNOTA MIESZKANIOWA SILENCE HOUSE;Krawiecka 6-8 ;Wrocław;8992749626
+ENERGOPIAST  sp. zoo;Polna 12 ;Siechnice;8970012083
+Wspólnota Mieszkaniowa ul. Rymarska 8-26;Skarbowców 94c ;Wrocław;8942928203
+"Wspólnota Mieszkaniowa ""Partynicka 36-50""";Partynicka 36-50 ;Wrocław;8992573311
+FC Ślęza Sp. z o.o. Sp. Komandytowa;Szyszkowa 6 ;Ślęza;8961578000
+BIELANY MEGAPOLIS Sp. z o.o. Sp.K.;Rzemieślnicza 26;Kraków;6792995176
+Wspólnota Mieszkaniowa ul. Piękna 64a-h 64j-k;Piękna 64a-h 64j-k ;Wrocław;8971784534
+Wspólnota Mieszkaniowa „KWADRAT”;Skarbowców 94c ;Wrocław;899-286-47-41
+Wspólnota Mieszkaniowa „OSIEDLE LITERACKIE”;M.Rodziewiczówny 2-4-6 ;Wrocław;8943041749
+JAFRA CONNECT Sp. z o.o.;Piastowska 68;Dobrodzień;5761576124
+WSPÓLNOTA MIESZKANIOWA PRZY UL.CHAŁUPNICZEJ 55-65;Galla Anonima 4/LU2;Wrocław;8982215892
+ZISCO INSTAL. SANIT. C.O. I GAZOWE S.C. GRUCELA;Aleksandra Fredry 3A;Oborniki Śląskie;9151793411
+Wspólnota Mieszkaniowa Przyjaźń;Przyjaźni 34-34F, Partynicka 34-34E ;Wrocław;8992592509
+TOMASZ JAMRÓZ EUROINST;Żywiecka 28 ;Wrocław;8942924990
+"WSPÓLNOTA MIESZKANIOWA ""PROFIT STABŁOWICKA""";al. gen. Józefa Hallera 84/2;Wrocław;8943158575
+UNI-TRUCK SP. Z O.O. Oddział Wrocław;Żmigrodzka 251;Wrocław;929-123-49-53
+"Wspólnota Mieszkaniowa ""Osiedle Impressio II""";Skarbowców 94C ;Wrocław;8992780406
+DOLNOŚLĄSKIE CENTRUM GINEKOLOGII ;Powstańców Śląskich 48;Wrocław;8992853051
+Zintegrowane Systemy Techniczne Sp. z o.o. ;Al. Jerozolimskie 212 A  ;Warszawa;9511936983
+PETER LACKE POLSKA Sp. z o.o.;Żernicka 9 ;Święta Katarzyna;781-16-13-361
+Wspólnota Mieszkaniowa „ JUTRZENKI 19-19A-19B”;Jutrzenki 19-19a-19b ;Wrocław;8992779308
+Solar Polska sp. Z o.o.;Rokicińska 162 ;Łódź;7292302271
+CHIC SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ ;Aleja Wojska Polskiego 23c ;Ostrzeszów;9721147850
+AP Marchewka Investment Sp.j;Jana Szczyrki 11 ;Wrocław;8943106874
+"Wspólnota Mieszkaniowa ""Roślinna""";Roślinna 2 ;Wrocław;894-292-92-37
+MEDICUS Sp. z o.o.;pl. Strzelecki 24 ;Wrocław;8961017023
+WSPÓLNOTA MIESZKANIOWA UL.PARTYNICKA 32-32E/SĄSIED;Skarbowców 94c;Wrocław;8992581931
+"SM ""STOCZNIOWIEC"" WE WROCŁAWIU";Kręta 22;Wrocław;8960007287
+Wspólnota Mieszkaniowa przy ul. Semaforowej 31-93 ;Semaforowa 31-93 ;Wrocław;899-267-53-36
+Wspólnota Mieszkaniowa „Osiedle Nowe Jagodno II”;Skarbowców 94c ;Wrocław;899-28-69-365
+WM UL. GAGARINA 40-44, 62-66 WROCŁAW;al. gen. Józefa Hallera 84/2;Wrocław;8943086924
+Wspólnota Mieszkaniowa ul. Łubinowa 3b-3g;Łubinowa 3b-3g ;Wrocław;8992682098
+Wspólnota Mieszkaniowa „Brzozowe Zacisze IV”;Skarbowców 94C;Wrocław;8992872172
+JG Inwestycje Sp. z o.o.;Kazimierza Wielkiego 39 ;Wrocław;899-24-73-986
+Dolnośląski Specjalny Ośrodek Szkolno-Wychowawczy ;Kamiennogórska 16 ;Wrocław;899-28-03-047
+"Wspólnota Mieszkaniowa ""Obornicka 99""";Obornicka 99-99A ;Wrocław;8952108588
+VITA MANAGEMENT sp. z o.o;Oławska 15;Wrocław;8971818428
+ADAM KAWALEC USŁUGI I HANDEL;Sulęcin Kasztanowa 12 ;Święta Katarzyna;8641623199
+"Wspólnota Mieszkaniowa ""Marka Hłaski 3""";Marka Hłaski 3 ;Wrocław;894-296-82-37
+INTELLEGO W.M. MATYJA SPÓŁKA JAWNA;Szyszkowa 4 ;Ślęza;8961518995
+"WSPÓLNOTA MIESZKANIOWA ""KOWARZYKA 3-5-7""";Hugona Kowarzyka 3-5-7;Wrocław;8952214238
+SALUD&DINERO Mariusz Sakowski;1 Maja 27/5;Świdnica;8842064022
+PRO-KLIMA Sp. z o.o.;Zwycięska 14E/3/5;Wrocław;8992747521
+PHU DOKAMA Sp. z o.o.;Zachodnia 33 ;Długołęka;899-10-07-070
+DOLNOŚLĄSKIE CENTRUM LOGISTYCZNE M&M Sp. z o.o.-Sp;Wrocławska 49;Długołęka;8961549613
+"Wspólnota Mieszkaniowa ""Przy Słowiańskim Wzgórzu"" ";Jedności Narodowej 146 ;Wrocław;898-22-01-453
+Wspólnota Mieszkaniowa Promenady Wrocławskie VIII ;Zakładowa 6;Wrocław;8952208947
+Prokuratura Okręgowa we Wrocławiu;Podwale 30 ;Wrocław;897-15-60-556
+WSPÓLNOTA MIESZKANIOWA PRZY UL. RYMARSKIEJ 41-41A;al. gen. Józefa Hallera 84/2;Wrocław;8971796537
+MIRUMEE SOFTWARE Sp. z o.o. Sp.K.;Tęczowa 7 ;Wrocław;8971845922
+Wspólnota Mieszkaniowa przy ul. Pięknej 5-19 we Wr;Piękna 5-19 ;Wrocław;897-179-81-05
+Wspólnota Mieszkaniowa przy ul. Chorwackiej 33-35B;Galla Anonima 4/LU2;Wrocław;8952192040
+Wspólnota Mieszkaniowa przy ul. Antoniego Wiwulski;Antoniego Wiwulskiego 19-31 ;Wrocław;5223004813
+Radio Wrocław S.A.;Karkonoska 10 ;Wrocław;899-22-28-560
+Wspólnota Mieszkaniowa Graniczna 1-13, Mieszczańsk;Graniczna 1 ;Siechnice;8961492362
+WSPÓLNOTA MIESZKANIOWA „DOŻYNKOWA 15-19”;Dożynkowa 15-17-19 ;Wrocław;8992749141
+Justyna Szymańska;gen. Kazimierza Pułaskiego 22/1A;Wrocław;8961362412
+CENTRUM LOGISTYCZNE PIETRZYKOWICE Sp. z o.o.;Ludwika Solskiego 28 ;Wrocław;8943153023
+VIVERRO SP. Z O.O.;Krawiecka 3/3I;Wrocław;8971830116
+CS NATURA TOUR Sp. z o.o. ;Dyrekcyjna 2-4;Gdańsk;5832650389
+WSPÓLNOTA MIESZKANIOWA „ JUTRZENKI 58-62 „;Jutrzenki 58-62 ;Wrocław;894-310-60-64
+WM UL.BAZYLIOWA 14-14D i 16-16D WE WROCŁAWIU;Bazyliowa 14-14D 16-16D ;Wrocław;6991957126
+TABAKA TOMASZ TIM;Kazimierza Michalczyka 13;Wrocław;8992151372
+WRE Nieruchomości Komercyjne Sp. z o.o.;Szewska 8;Wrocław;8971793119
+Wspólnota Nieruchomości TEMIDA;Tęczowa 11 ;Wrocław;897-17-11-877
+Wspólnota Mieszkaniowa Siostrzana 9-17A;pl. Strzelecki 20 ;Wrocław;899-24-39-334
+ROMA INVESTMENTS PIATKIEWICZ SP.J.;Rejtana 12A ;Luboń;777-295-10-93
+"WSPÓLNOTA MIESZKANIOWA ""KIELECKA""";Kielecka 14-14A-14B-14C ;Wrocław;8943140121
+"WSPÓLNOTA MIESZKANIOWA ""SŁONECZNE STABŁOWICE 3""";Hallera 84 lok.2 ;Wrocław;898-22-45-568
+"Baseny Miejskie ""Termy Jakuba"" Sp. z o.o.";1 Maja 33a ;Oława;912 187 28 50
+Wspólnota Mieszkaniowa ul. Dmowskiego 19 a,b,c,d;Most Romana Dmowskiego 19 a,b,c,d ;Wrocław;898-221-99-73
+WM STABŁOWICKA 77A, 79A, 87, 87A;al. gen. Józefa Hallera 84/2;Wrocław;8943061114
+Gmina Siechnice;Jana Pawła II 12;Siechnice;912-10-056-91
+Wspólnota Mieszkaniowa przy ul. Zatorskiej 106-126;Zatorska  ;Wrocław;897-178-77-16
+Wspólnota Mieszkaniowa przy ul. Chałupniczej 36-46;Galla Anonima 4/LU2;Wrocław;8952209361
+"Wspólnota Mieszkaniowa "" ZACISZE KRZEMIENIECKIE""";Krzemieniecka 129,129 a-d 131,131 a-b ;Wrocław;897-17-88-213
+Tapipol – Witold Rzeźnik Sp.J.;Strzegomska 46B;Wrocław;8971672545
+Detal Centrum sp. z o.o.;Kazimierska 15 ;Wrocław;897-176-02-32
+Klimpar Paweł Krok, Ryszard Szołtysek Sp. Jawna ;Przestrzenna 29/7;Wrocław;899-24-46-133
+Wspólnota Mieszkaniowa ul.Skarbowców 78-82D;Skarbowców 78-82D ;Wrocław;8992852494
+WSPÓLNOTA MIESZKANIOWA PRZY UL.PRZYJAŹNI 20,20A ;al. gen. Józefa Hallera 84/2;Wrocław;8943070076
+Surfland Sp. z o.o.Sp.k.;Tęczowa 11/1 ;Wrocław;894-00-05-144
+TOI-TOI Polska Sp. z o.o.;Płochocińska 29 ;Warszawa;118-00-42-784
+"WM ""SOFT LOFTY CENTRUM"" ";Przedmiejska2-4, Legnicka 43-43a ;Wrocław;8971873835
+PENTAGON PIOTR WALUS;Pawła Włodkowica 10/17;Wrocław;5271585133
+"WSPÓLNOTA MIESZKANIOWA ""OSIEDLE JUTRZENKA""";pl. Strzelecki 20 ;Wrocław;8982256750
+"WSPÓLNOTA MIESZKANIOWA ""ZATORSKA 63-65 D""";Skarbowców 94 C;Wrocław;8992771169
+WSPÓLNOTA MIESZKANIOWA UL.B.CHROBREGO 120-122;Bolesława Chrobrego 120-122;Oława;9121761760
+"WM ""STROŃSKA 11,13,13A, CZERNIAWSKA 6-8""";Skarbowców 94C ;Wrocław;8992571364
+DIECEZJA WROCŁAWSKA KOŚCIOŁA EWANGELICKO-;ks. Marcina Lutra 2 ;Wrocław;8971374411
+"Wspólnota Mieszkaniowa ""Osiedle Chabrowe""";Chabrowa 65 ;Wysoka;896-138-76-59
+WSPÓLNOTA MIESZKANIOWA UL. SKARBOWCÓW 121A, 121B ;Galla Anonima 4/LU2;Wrocław;8982200608
+MANHATTAN-MEBLE R.SZCZYGIELSKI K.ZASKÓRSKI ;Rybacka 7 ;Wrocław;8970013154
+WIKTORIA PRZEMYSŁAW ŻUK;Długa 39 ;Szewce;9151570177
+FORTE BRAND Sp. z o.o.;Biała 1 ;Ostrów Mazowiecka;5272726311
+Wspólnota Mieszkaniowa ul. Poranna 12-14;Poranna 12-14 ;Oława;9121869517
+HILOGIC ŁUKASZ BINKOWSKI;Wioska Akacjowa 40L ;Syców;9111873380
+Państwowa Bursa Szkół Artystycznych;Trzemeska 2 ;Wrocław;896-10-04-641
+"Przedsiębiorstwo Produkcyjno-Handlowe ""ABET"" Sp. ";Jerzmanowska 16 ;Wrocław;898-001-86-50
+  BIAŁOWIESKA 3-3D, LEGNICKA 49C-ENIEDŹWIEDZIA 4c;Białowieska 3DC,3DD ;Wrocław;8992852488
+Dolnośląskie Zakłady Usługowo-Produkcyjne DOZAMEL ;Fabryczna 10 i 13;Wrocław;896-00-01-014
+Wspólnota Mieszkaniowa ul.Legnicka49F-49G, ul.Bia;Białowieska 3C/4B;Wrocław;8943113070
+Leszczyński Center S.C.;Leszczyńskiego 4 ;Wrocław;897-176-50-28
+GS Systemy Budowlane Sp. z o.o.;Spółdzielcza 1/3;Kąty Wrocławskie;897-00-21-981
+GALL-ICM. i I.Majcher Spółka Jawna;Jaworzyńska 265 ;Legnica;728-000-32-84
+KOMPOZYTY Sp z o.o.;Topolowa 8;Stanowice;8942673312
+TEAM PREVENT POLAND ;Stefana Batorego 19;Pszczyna;6381701670
+Przedsiębiorstwo Inżynierii Wodnej i Ochrony Środo;Południowa 1 ;Oleśnica;9110009900
+WSPÓLNOTA MIESZKANIOWA PRZY UL. ARBUZOWEJ 3;al. gen. Józefa Hallera 84/2;Wrocław;8943137389
+Wspólnota Mieszkaniowa „ Mosiężna 3-21”; Mosiężna 3 ;Wrocław;894 292 00 41
+Wspólnota Mieszkaniowa ul. Poranna 20A-20B-20C-20D;Poranna 20A-20B-20C-20D ;Oława;9121873335
+KFB ACOUSTICS Sp. z o.o.;Mydlana 7 ;Wrocław;8951956972
+Wspólnota Lokalowa Żmigrodzka 81-83 ;pl. Strzelecki 20 ;Wrocław;8982258683
+IN-BUD INVEST Sp. z o.o. Sp. k.;Bronisława Trentowskiego 3 ;Wrocław;8943085735
+WM UL. RYBNICKA 61, UL. ZABRZAŃSKA 28;al. gen. Józefa Hallera 84/2;Wrocław;8943153448
+"Wspólnota Mieszkaniowa ""Żwirki i Wigury""";Żwirki i Wigury 4-12 ;Wrocław;8943007994
+PPHU LECH-MET Sylwester lech;Kościuszki 9 ;Żmigród;915-001-04-01
+TAURON Obsługa Klienta Sp. z o.o.;Sudecka 95-97 ;Wrocław;8992604750
+WM „OPALOWA  18-32”;Opalowa 18-32 ;Wrocław;899 274 91 70
+Neurosoft Sp. z o.o.;Życzliwa 8 ;Wrocław;989-001-64-21
+Rynek Admi Sp. z o.o.;pl.Solny 16 ;Wrocław;897-10-07-925
+TOYA Development Sp. z o.o. Sp. k. w likwidacji;Kryniczno, Rakowa 5 ;Wisznia Mała;9151773934
+Barańczyk Janusz;Grabskiego 11/4;Siechnice;912-115-13-52
+WSPÓLNOTA MIESZKANIOWA  PARTYNICE HOUSE M,N;al. gen. Józefa Hallera 84/2;Wrocław;8982247656
+ATM System;Bielany Wrocławskie ul.Błękitna 3 ;Kobierzyce;899-10-83-065
+"Wspólnota Mieszkaniowa ""Przyjaźni""";Przyjaźni 22-28 ;Wrocław;8942795848
+"Wspólnota Mieszkaniowa ""Paryski Zakątek"" ";Komuny Paryskiej 90,90a,92 ;Wrocław;8971870966
+Wspólnota Mieszkaniowa Graniczna 2d-2dh;Graniczna 2D-2DH;Wrocław;8943050955
+"WSPÓLNOTA MIESZKANIOWA ""JUTRZENKI 50-56""";Jutrzenki 50-56 ;Wrocław;8943091463
+WM UL. KOMUNY PARYSKIEJ 72, 72A WROCŁAW;Komuny Paryskiej 72-72A ;Wrocław;8982235535
+"Wspólnota Mieszkaniowa ""Róży Wiatrów""";Skarbowców 79 ;Wrocław;899-24-31-640
+"Wspólnota Mieszkaniowa ""Opalowa""";Opalowa 2-16 ;Wrocław;8992742788
+PAWEŁ ŁUŹNIAK;Tadeusza Kościuszki 24;Siechnice;8942784000
+POWIAT OŁAWSKI;3 Maja 1 ;Oława;9121875363
+PPHU DIAMOND;Rakowicka 31 ;Kraków;6762129480
+Wspólnota Mieszkaniowa Piękna 23-23g;Piękna 23-23g ;Wrocław;897-17-88-242
+WSPÓLNOTA MIESZKANIOWA  JARACZA 37F, H,J,K,M,N ;Stefana Jaracza 37 F-N;Wrocław;8982216087
+WLK Investment Group Sp. z o.o.;Krawiecka 3/3i ;Wrocław;8943120940
+GMINA CZERNICA;Kolejowa 3 ;Czernica;9121101093
+"MINI-BROWAR ""SPIŻ"" Arkadiusz Spiż";Rynek-Ratusz 2 ;Wrocław;897-000-31-09
+Wojewódzki Inspektorat Transportu Drogowego we ;Bolesława Krzywoustego 28;Wrocław;897-16-67-142
+Jacek Łozowski;K.Wielkiego 39 ;Wrocław;897-100-10-41
+Wspólnota Mieszkaniowa „Akacjowa 4M-4P w Ślęzie”;Skarbowców 94C ;Wrocław;8992840835
+"FUNDACJA OŚWIATOWA ""EKOLA""";Zielińskiego 56 ;Wrocław;899-25-07-389
+FIAB SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ ;Fabryczna 20D ;Pietrzykowice;8942999829
+Dom Pomocy Społecznej prowadzony przez Zgromadz;Grunwaldzka 104 ;Wrocław;898-10-46-772
+Niepubliczny Zakład Opieki Zdrowotnej Centrum ;Żelazna 34;Wrocław;894-24-67-015
+WSPÓLNOTA MIESZKANIOWA  CENTAURIS 3;pl. Strzelecki 20 ;Wrocław;8992788313
+Wspólnota Mieszkaniowa ul.Zatorska 92-104;Zatorska 92-104 ;Wrocław;8971782251
+K.B. INVEST Sp. z o.o. Sp. K.;Osobowicka 89;Wrocław;8952072666
+"OŚRODEK SZKOLEŃ I KURSÓW  ""ARKADY"" MARZENA MARCZAK";Azaliowa 13 ;Wałbrzych;8861956477
+"Wspólnota Mieszkaniowa ""MAESTRO II""";Vivaldiego 84 ;Wrocław;8992738195
+Patrycja Kuczyńska ToTu;ks. Grzegorza Piramowicza 4 ;Wrocław;8981989456
+KOMET P.P-H. Kordylewicz Piotr;Wrocławska 62 Radwanice ;Świeta Katarzyna;912-102-43-00
+Match Point Sp. z o.o.;Ślęza, Szyszkowa 6 ;Kobierzyce;8992602952
+Wspólnota Mieszkaniowa ul. Śliczna 7 - 7a;Śliczna 7-7a ;Wrocław;8992537485
+Wspólnota Mieszkaniowa „Osiedle Chabrowe 79-97”;Chabrowa 79 ;Wysoka;796-145-10-15
+TATAREK Sp. z o.o.;Świeradowska 75 ;Wrocław;899 278 63 72
+ORTHOS Szpital Wielospecjalistyczny;Wrocławska 2 Komorowice ;Wrocław;896-148-42-62
+"Wspólnota Mieszkaniowa ""Poleska 43-47B""";pl. Strzelecki 20 ;Wrocław;895-184-27-77
+Boart Longyear Poland So. z o.o.;Popiełuszki 30 ;Kąty Wrocławskie;6941632899
+MARBUD Marcin Stachiewicz Usługi Ogólnobudowlane;Jesionowa 4;Borowa;9111451957
+WM PRZY UL. KOMUNY PARYSKIEJ 56;al. gen. Józefa Hallera 84/2;Wrocław;8992780197
+W&W NIERUCHOMOŚCI I.M. WOJTUŚ Spółka Jawna;Kleczkowska 43 ;Wrocław;895-187-33-12
+ Wspólnota Mieszkaniowa Al. Armii Krajowej 2 - 2a;Armii Krajowej Al. 2-2a ;Wrocław;899-252-14-49
+Przedsiębiorstwo Geologiczne we Wrocławiu PROXIMA ;Kwidzyńska 71;Wrocław;897-000-97-50
+HANDLOPEX SA;Regulska 49 ;Warszawa;813-03-36-843
+"Wspólnota Mieszkaniowa ""Partynicka 18""";Skarbowców 94C ;Wrocław;8992802705
+Wspólnota Mieszkaniowa Partyzantów 127  ;Partyzantów 127 ;Wrocław;8943150869
+Autorskie Licea Artystyczne ALA;Robotnicza 36-38 ;Wrocław;894-26-51-121
+First PFM Sp. z o.o.;Podmiejska 1 ;Warszawa;5213457223
+Wspólnota Mieszkaniowa Ul. Stawowa 4,6 8;Stawowa 4,6,8 ;Wrocław;897-18-24-162
+ROBERT BURSZEWSKI;Litomska 24/6;Wrocław;6921767751
+WSPÓLNOTA MIESZKANIOWA MIĘDZYGÓRSKA 18;al. gen. Józefa Hallera 84/2;Wrocław;8982218643
+WM GORCZYCOWA 8-14, CZARNUSZKOWA 9-17;Gorczycowa 8-1zarnuszkowa 9-17 ;Wrocław;8952204122
+WSPÓLNOTA MIESZKANIOWA LA BOHEME  UL. POBOŻNEGO 11;Pobożnego11,13,16, Niemcewicza 14 ;Wrocław;8971826899
+Aircom Automotive sp. z o.o. sp. k.;Fabryczna 20B ;Pietrzykowice;8961534988
+ FAM Sp.  z o. o. ;Burakowska 5/7;Warszawa;5252686206
+OTIS HOTELE Sp. z o.o.Sp. k.;Szewska 6-7;Wrocław;8971867651
+VRATISLAVIENSIS HELP SP. Z O.O. ;św. Idziego 1 ;Wrocław;8982243960
+WM GORCZYCOWA 1-13,16,18, CZARNUSZKOWA 19,21;Gorczycowa 1,3,5,7,zarnuszkowa 19,219,11,13,16,18, C ;Wrocław;8952208887
+"Wspólnota Mieszkaniowa ""Rymarska 11-17""";Rymarska 11-13-15-17 ;Wrocław;894-27-56-682
+"WSPÓLNOTA MIESZKANIOWA ""NOVALIA 1""";Skarbowców 94C;Wrocław;8992747716
+HANZA POLAND sp. z o.o.;Al. Jerozolimkie 38 ;Brzeg Dolny;585-144-11-26
+Wspólnota Mieszkaniowa „Oprovo”;pl. Strzelecki 20 ;Wrocław;8982236316
+"Wspólnota Mieszkaniowa ""Odra House""";Długa 16 a, b, c ;Wrocław;897-17-70-644
+"ZWIĄZEK GMIN ""BYCHOWO""";Kolejowa 30 ;Prusice;9151341034
+CEVA LOGISTICS POLAND Sp. z o.o.;Sukiennicza 7 ;Bielsko-Biała;547-15-71-905
+WIBUD S.C. WITWICCY DEKARSTWO-BUDOWNICTWO;Czerwonych Maków 3A ;Wrocław;8951729377
+Adar Instalacje Sp. z o.o.;Holenderska 10;Jelcz-Laskowice;9121908915
+"WSPÓLNOTA MIESZKANIOWA ""ZIELONE ZACISZE""";Kokosowa 11-13;Wrocław;8943113880
+Yujin Technology Poland sp. z o.o.;Przemysłowa 7;Pietrzykowice;8971843188
+BPO MANAGEMENT Sp. z o.o.;Kuźnicza 10;Wrocław;8951989227
+Wojciech Kogut;Kościelna 4 ;Miłoszyce;
+WSPÓLNOTA MIESZKANIOWA MAGAZYNOWA 28-30 OŁAWA;Bolesława Chrobrego 20E;Oława;9121931280
+WASTER SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ;Na Zapleczu 20;Toruń;8792691299
+Gospodarstwo Rolne Zbigniew Twardochleb;Siedlce 96 ;Oława;912-129-52-00
+WSPÓLNOTA MIESZKANIOWA OŁAWSKA PRESTIGE;Oławska 9 ;Wrocław;8971748188
+HELLA Techniki Osłonowe Sp. z o.o.;Północna 15-19;Wrocław;8990016859
+VITA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ;Oławska 15;Wrocław;8971818931
+WSPÓLNOTA MIESZKANIOWA WILLA GARDENIA;al. gen. Józefa Hallera 84/2;Wrocław;8992741659
+WSPÓLNOTA MIESZKANIOWA CENTAURIS 2;pl. Strzelecki 20;Wrocław;6292468692
+Wspólnota Mieszkaniowa przy ul.Pochyłej 9-17;Pochyła 9-17 ;Wrocław;8971771046
+Wspólnota Lokalowo-Mieszkaniowa Rynek 60 Wrocław;Rynek 60 ;Wrocław;8971679464
+ROBA METALS POLSKA Sp. z o.o.;Jarzębinowa 39 Stanowice k.Oławy ;Oława;895-18-33-442
+WSPÓLNOTA MIESZKANIOWA SOŁTYSOWICKA 32-32D;Sołtysowicka 32-32d ;Wrocław;8952189368
+BAGAR S. PIASECKI SPÓŁKA JAWNA;Boczna 11 ;Tyniec Mały;8961530080
+WSPÓLNOTA MIESZKANIOWA UL. MAGAZYNOWA 20-22 ,OŁAWA;Bolesława Chrobrego 20E;Oława;9121930228
+Piast Investment Spółka z o.o.;Sułowska 43 ;Wrocław;895-18-41-281
+Wspólnota Mieszkaniowa Księże Nowe;Rybnicka 8.10.10a.10b.10c ;Wrocław;8,99283E+11
+SE-KO Sułkowski Krzysztof;Hłaski 43/11;Wrocław;737-105-39-22
+STOWARZYSZENIE WŁAŚCICIELI DOMKÓW KAMPINGOWYCH;Rogowska 124/9;Wrocław;8992671083
+WSPÓLNOTA MIESZKANIOWA PRZY UL. SYRYJSKIEJ 2-16;Jana Ewangelisty Purkyniego 1 ;Wrocław;8971874591
+BC INVESTMENTS Sp. z o.o. ;Jeździecka 19 ;Wrocław;9512180872
+ARCHEM Sp. z o.o.;Łany ul. Wesoła 8 ;Kamieniec Wrocławski;897-16-59-272
+KOMENDA WOJEWÓDZKA PAŃSTWOWEJ STRAŻY RYBACKIEJ WE ;pl. Powstańców Warszawy 1 ;Wrocław;8971590824
+WSPÓLNOTA MIESZKANIOWA  UL.KOMUNY PARYSKIEJ 18 ;gen. Karola Kniaziewicza 37;Wrocław;8992390898
+Fundacja OPTIMUM;Rybacka 17 ;Wrocław;897-10-40-503
+Karmar S.A.;Grójecka 208 ;Warszawa;5212500997
+"Stow. pw. MBNP "" Przyjaciele Seniorów """;Józefa Ignacego Kraszewskiego 2 ;Wrocław;8951663649
+EKOM S.C. Mariusz Bujak, Dariusz Stach;Opolska 140 ;Wrocław;8951991916
+"Wspólnota Mieszkaniowa ""Rezydencja Parkowa Bielany";Świerkowa 1 A-F ;Bielany Wrocławskie;896-147-57-54
+WSPÓLNOTA MIESZKANIOWA UL. TRAWOWA 32A;al. gen. Józefa Hallera 84/2;Wrocław;8943096816
+Wspólnota Mieszkaniowa przy ul. Tęczowej 70-76a;Tęczowa 76-76a ;Wrocław;8971771023
+TECHGAZ Sp. z o.o. Spółka Komandytowa;Tarnogajska 11-13 ;Wrocław;8992754490
+"WSPÓLNOTA MIESZKANIOWA ""PARTYNICE HOUSE L""";al. gen. Józefa Hallera 84/2;Wrocław;8982244942
+Leonard Weiss GmbH &Co. KG;Leonard Weiss sraße 22 ;Göppingen;DE145554519
+WSPÓLNOTA MIESZKANIOWA UL.ZATORSKA 67-73;Zatorska 67-73 ;Wrocław;8971802539
+WSPÓLNOTA MIESZKANIOWA PRZY UL. ARACHIDOWEJ 14;al. gen. Józefa Hallera 84/2;Wrocław;8943137395
+PLASTMER Sp. z o.o. Sp.K.;Łazienkowa 1 ;Kąty Wrocławskie, Smolec;9130002456
+WOMAG ZADROŻNY SPÓŁKA JAWNA;Bystrzycka 69 C;Wrocław;8940048886
+Wspólnota Mieszkaniowa ul. Zefirowa 19,21;Zefirowa 19,21 ;Wrocław;897-185-48-26
+Polmar Grędziak Sp zo.o.;Michałowicka 2 ;Chorzów;6272755224
+WROCŁAWSKIE CENTRUM KSZTAŁCENIA OLIMPIJSKIEGO Sp. ;Na Grobli 16A/214;Wrocław;8992757815
+Wspólnota Mieszkaniowa Zefirowa 26 – 30;Skarbowców 94C ;Wrocław;8992743546
+L&I ADVISORY Sp. z o.o.;Władysława Syrokomli 23/10G;Kraków;6772389426
+Wspólnota Mieszkaniowa ul.  Burzowa 6,8,10 ;Burzowa 6,8,10 ;Wrocław;8971854849
+EKOPOLMAL Jolanta Koleśniczenko;Krakowska 92 ;Wrocław;697-153-95-03
+RYBACKA 9 Sp. z o.o Sp.K. ;Rybacka 9 ;Wrocław;8971784215
+Fundacja Wsparcie;Kopernika 36/40 ;Warszawa;525-22-32-149
+Michał Guła;Klonowa 10A/15 ;Oleśnica;8982026033
+WSPÓLNOTA MIESZKANIOWA UL. MAGAZYNOWA 24-26 OŁAWA;Bolesława Chrobrego 20E;Oława;9121930748
+WSPÓLNOTA MIESZKANIOWA CENTAURIS V .ŚLĘŻNA 114k-s;pl. Strzelecki 20 ;Wrocław;5223081179
+MAREK-MAREK Sp. z o.o. Sp. k.;Rzemieślnicza 27 ;Żmigród;9150001075
+"Wspólnota Mieszkaniowa ,,PARKOWE ZŁOTNIKI""";Małopolska 38,38a-38d,40,40a-40b ;Wrocław;897-183-84-83
+Wspólnota Mieszkaniowa ul. Rzeźbiarska 5-13;Rzeźbiarska 5-13 ;Wrocław;8971775417
+MAESTRO 5, PRZY UL. SCHUBERTA 60-76;Franza Petera Schuberta 60-76;Wrocław;8992827071
+Wspólnota Mieszkaniowa Przyjaźni 101-105A;Przyjaźni 101-105A ;Wrocław;899-276-03-26
+"Wspólnota Mieszkaniowa ""Witkowska 11-15a""";Witkowska 11-15a ;Wrocław;895-195-94-04
+GERO DAIRY Sp. z o.o.;Borzęcin 46a ;Żmigród;957-07-05-736
+"Wspólnota Mieszkaniowa ""Ostoja Oporów""";Buraczana 40-48 ;Wrocław;897-185-61-10
+NIEPUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ NADZIEJA ;Wrocławska 16;Siedlec;8151569280
+WM UL.POCHYŁA 19-23, TĘCZOWA 78-82;Pochyła 19-23, Tęczowa 78-82 1;Wrocław;8971789046
+EL-REM PAWEŁ MARCIN KUCZKOWSKI;Janusza Korczaka 2D/10;Trzebnica;9151702874
+Wspólnota Mieszkaniowa ul. Pochyła 7, Tęczowa 68;Pochyła 7, Tęczowa 68 ;Wrocław;8971782268
+Narzędzia Skrawające TOOLS Sp. z o.o.;Władysława Grabskiego 25 ;Siechnice;899-17-87-139
+WSPÓLNOTA MIESZKANIOWA UL. BRZOZOWA 7 A -7I W WYSO;Skarbowców 94C ;Wrocław;8961468211
+Powiatowa Stacja Sanitarno Epidemiologiczna we Wr;Kleczkowska 20 ;Wrocław;895-16-38-686
+"Wspólnota Mieszkaniowa ""Braterska 7-27""";Braterska 25 ;Wrocław;899-262-33-16
+Wspólnota Mieszkaniowa ul. Śliczna 5 - 5b;Śliczna 5-5b ;Wrocław;899-25-56-494
+Wspólnota Mieszkaniowa ul. Wiwulskiego 14-16,Rzeźb;Wiwulskiego 14-16, Rzeźbiarska 1-3, Biegasa 1B ;Wrocław;8971774949
+METALES sp. z o.o.;Wiaduktowa 21 ;Wrocław;8992759671
+WRE PROJEKT Sp. z o.o. Sp.K.;Ślężna 146-148 ;Wrocław;899-01-08-573
+"Wspólnota Mieszkaniowa ""Zwycięska 14F""";Zwycięska 14F ;Wrocław;899-26-23-865
+Miejski Zakład Gospodarki Komunalnej Sp. z o.o.;Poznańska 6 ;Żmigród;9151800714
+Wspólnota Mieszkaniowa Zefirowa 20 – 24;Skarbowców 94C ;Wrocław;8992760266
+Zakład Dystrybucji Gazu Płynnego Zenon Gródecki;Krępicka  34/1;Wrocław;894-147-08-31
+MCM CAR TRAVELS Janusz Mroziński;Mokronoska 4 ;Wrocław;8941092530
+WATER FLOW SPÓŁKA Z OGRANICZON;Głubczycka 8;Wrocław;8992851684
+"THEUSLED ""TNC INVESTMENTS"" Sp. z o.o. Sp.k.";Wałowicka 19A ;Warszawa;5223018755
+Fitness World Sp z.o.o;Grabiszyńska 269 ;Wrocław;6912483942
+ERJOT H.Rynkowska Spółka Jawna;Nowowiejska 48 ;Wrocław;8982165438
+"WSPÓLNOTA MIESZKANIOWA ""RODZINNE MAŚLICE""";Bogatyńska 2-16 Węgliniecka 5-11 ;Wrocław;8971873829
+ 'WROZAS' SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ;Kaczeńcowa 12;Wrocław;8951786820
+I-K TEAM SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ;Gorlicka 58B;Wrocław;8952182478
+Wspólnota Mieszkaniowa ul. Burzowa 2,4, Zefirowa 1;Burzowa 2,4, Zefirowa 17 ;Wrocław;897-185-48-32
+TRANSPORT CIĘŻAROWY GRZEGORZ ORŁOWSKI ;Koreańska 31L ;Wrocław;8991037332
+BWA Wrocław Galerie Sztuki Współczesnej;Wita Stwosza 32 ;Wrocław;896-000-58-45
+Wspólnota Mieszkaniowa ul.Rybnicka 12-12H;Rybnicka 12-12H ;Wrocław;8992838608
+Wspólnota Mieszkaniowa Brzeska 5-15;Brzeska ;Wrocław;899-276-49-56
+"WSPÓLNOTA MIESZKANIOWA ""RÓŻA WIATRÓW""";Róży Wiatrów 17-23 ;Wrocław;8982240453
+Wspólnota Mieszkaniowa ul.Saperów 18 ;Skarbowców 94C  ;Wrocław;8992728423
+CCC SPÓŁKA AKCYJNA;Strefowa 6;Polkowice;6922200609
+LERISS PROJEKT Marcin Klich;Robotnicza 2B ;Zacharzyce;899-208-13-58
+WSPÓLNOTA MIESZKANIOWA WILCZA 18 A,B,C,D;Wilcza 18 ABCD ;Oława;9121915826
+Kenig Spedition Kenig Adam;Niepodległości 22;Kampinos;5290004924
+E-GLAMOUR.PL Sp. z o.o.;Stanisława Leszczyńskiego 4/25;Wrocław;8831841700
+WM UL. LEGNICKA 49B-49BC UL. NIEDŹWIEDZIA 4AC-4C;. LEGNICKA 49B, 49BA, 49A, 49AD, 49BB, 49BC UL. NIEDŹWIEDZIA ;Wrocław;8943148430
+ROTATECH Polska Sp. z o.o.;Nowogródzka 1 ;Wrocław;8951806706
+Kotlarska 42 S.C.;Leszczyńskiego 4 ;Wrocław;897-177-59-43
+Dobre Zarządzanie Sp.zo.o.;Henryka Michała Kamieńskiego 205 ;Wrocław;8961534468
+WM UL.GERBEROWA 14,14A,16,18 WE WROCŁAWIU;Jana Ewangelisty Purkyniego 1;Wrocław;8971847312
+CHATA RYBAKA Sp. z o.o.;Rymarska 50B/10 ;Wrocław;8943134497
+PHU DEAL FRANIECZEK PIOTR;Północna 1 ;Kiełczów;911-133-60-50
+WSPÓLNOTA MIESZKANIOWA UL.RYMARSKA 7-9;al. gen. Józefa Hallera 84/2;Wrocław;8942756676
+WSPÓLNOTA MIESZKANIOWA UL.DZIELNICOWA 8-10 WROCŁAW;al. gen. Józefa Hallera 84/2;Wrocław;8971791244
+Wspólnota Mieszkaniowa „Zabrodzka 2-4”;Skarbowców 94C;Wrocław;8992748785
+Telecommunications Operations & Service ;Grabiszyńska 251A ;Wrocław;525-23-72-643
+Wspólnota Mieszkaniowa PRZY ARSENALE;Wszystkich Świętych 2a-2c ;Wrocław;8971800204
+STOWARZYSZENIE OGRÓD WYOBRAŹNI LEONARDO ;Młodych Techników 58 ;Wrocław;899-269-05-60
+PRZEDSIĘBIORSTWO BUDOWLANE MAT AGNIESZKA TOMASZ ;Grabiszyńska 208 ;Wrocław;8943131122
+Wspólnota Mieszkaniowa ul. Jagiełły 3,5;Jagiełły 3,5 ;Wrocław;898-21-28-638
+MPM DEVELOPMENT PPP Sp. z o.o.;Partyzantów 1 ;Namysłów;7521453245
+ZHP Chorągiew Dolnośląska Hufiec Powiatu Trzebnick;Nowa 6 ;Wrocław;897-172-05-40
+TEKNOWARE POLAND Sp. z o.o.;Władysława Grabskiego 22 ;Siechnice;5213727616
+LOG-IN CZ SP. Z O.O. Oddział w Polsce;Bobrecka  27;Cieszyn;5482680644
+EVERSIS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ;Lirowa 13 ;Warszawa;5222694514
+AKIRA JACEK KRAWCZYK;pl.Strzelecki 28 ;Wrocław;599-141-53-18
+Semmelrock Stein + Design Sp. z o.o.;1-go Maja 6 ;Kołbiel;796-24-27-320
+Wspólnota Mieszkaniowa Krzycka 83-83C;Krzycka 83 ;Wrocław;897-17-97-962
+Kemipol Sp. z o.o.;Kuźnicka 6 ;Police;8510108249
+WSPÓLNOTA MIESZKANIOWA JUTRZENKI 9;Jutrzenki 9;Wrocław;8992861122
+Państwowa Szkoła Muzyczna II Stopnia im.R.Bukowsk;Podwale 68/69 ;Wrocław;899-20-84-457
+"Wspólnota Mieszkaniowa ""MAESTRO I""";Vivaldiego 72-82 ;Wrocław;8992736397
+Wspólnota Mieszkaniowa Samborska 28,30 Rakietowa 4;Rakietowa ;Wrocław;897-18-13-804
+STATEKWROCLAW.PL S.C.;Stanisława Leszczyńskiego 4/29;Wrocław;8971865729
+WM UL. BOLESŁAWA CHROBREGO  2-10, WRÓBLOWICE;al. gen. Józefa Hallera 84/2;Wrocław;8943075725
+ANKAR Sp. z o.o.;Buforowa 125;Wrocław;894-288-79-64
+Dariusz Waszak - Pełnomocnik Właścicieli garażu Ja;Jana Pawła II 2/12;Siechnice;
+PRUSA 9 Sp. z o.o.;Wierzbowa 30 ;Wrocław;8971820419
+Wspólnota Mieszkaniowa ul. Północna 16, 18, 20, 22;Skarbowców 94c ;Wrocław;894 303 69 61
+AUTOGIEŁDA- Majski Styrna Spółka Jawna;Kasprowicza 46 ;Wrocław;894-000-56-29
+DUR-FAN PRZEDSIĘBIORSTWO INŻYNIERYJNO-DROGOWE;Górecka 65A ;Wrocław;894-00-19-212
+WSPÓLNOTA MIESZKANIOWA WYBRZEŻE WYSPIAŃSKIEGO 11;wyb. Stanisława Wyspiańskiego 11 ;Wrocław;8992807246
+"Wspólnota Mieszkaniowa ""Przyjaźni 36-38""";Przyjaźni 38b ;Wrocław;899-250-73-37
+ŻUKU Ogrodzenia Jan Rzeczkowski;Jankowice Wrocławskie 41 ;Oława;912-10-11-935
+WM UL. ZACISZNA 16-18-20-22-24-26 55-200 OŁAWA;Zaciszna 16-26 ;Oława;9121863532
+Zakład Budownictwa Ogólnego i Handlu Hieronim;Rogowska 130/19;Wrocław;899-010-41-50
+"Niepubliczne Przedszkole ""Calineczka i Przyjaciele";Świerkowa 6 ;Kamieniec Wrocławski;912-103-99-80
+PRZEDSZKOLE ZGROMADZENIA SIÓSTR ŚW. ELŻBIETY;Stanisława Staszica 4;Kąty Wrocławskie;9131446712
+INSTALEX Sp. z o.o.;Krakowska  29c;Wrocław;899-24-36-933
+WSPÓLNOTA MIESZKANIOWA MAESTRO III UL.SCHUBERTA 50;Franza Petera Schuberta 50-50C ;Wrocław;6772377570
+STANISŁAW GÓRECKI ZAKŁAD BUDOWY I DEKORACJI;Racławicka 39/4;Wrocław;8990003992
+Wspólnota Mieszkaniowa ul. Poranna 16-18;Poranna 16-18 ;Oława;9121871307
+P.H.U. MAR-MAZ Marta Mazur;Hugona Kołłątaja 9/10/7;Wrocław;9141521823
+Wspólnota Mieszkaniowa przy ul.Marszowickiej 141-1;Marszowicka 141-156 ;Wrocław;8982223070
+"Wspólnota Mieszkaniowa ""Maślicka 165""";Skarbowców 94C ;Wrocław;8943137320
+Invest-Media I Sp. z o.o.;Strefowa 15 ;Chmielów;8672238841
+WSPÓLNOTA MIESZKANIOWA MAESTRO IV;Franza Petera Schuberta, 48-48A-48B-48C ;Wrocław;8992751511
+"ZAKŁAD ROLNICZO - PRZEMYSŁOWY ""FARMUTIL HS";Śmiłowo Przemysłowa 4 ;Kaczory;7641023748
+KONRAD JASKULSKI DREWNEX;Sportowa 24;Piecowice;6222513252
+ WM PRZY UL. AWICENNY 30, 30a-32d WE WROCŁAWIU;Jana Ewangelisty Purkyniego 1 ;Wrocław;8971878838
+R4R Wrocław Kępa Sp. z o.o.   ;Litewska 1 ;Warszawa;7010620564
+PRACOWNIA DOBRYCH POMYSŁÓW W EDUKACJI KRYSTYAŃCZUK;Władysława Grabskiego 9/10;Wrocław;8991280417
+DUBLET Smoleń i Lejko Spółka Jawna;Przemysłowa 1, Blizanowice ;Wrocław;912-13-91-607
+KURATORIUM OŚWIATY WE WROCŁAWIU;pl. Powstańców Warszawy 1;Wrocław;8971549945
+"ANDRZEJ CERKASKI PHU ""CERCHEM""";Komuny Paryskiej 55;Wrocław;8980028938
+VBH Polska Sp. z o.o.;Chełmżyńska 180 ;Warszawa;113-00-14-751
+Wspólnota Mieszkaniowa ul. Łubinowa 1d-1g,3-3a;Łubinowa 1d-1g,3-3a ;Wrocław;899-26-86-239
+STUDIO 2001 SPÓŁKA JAWNA Galicki,Małasiewicz,Dąbr;Oplska 11/19;Wrocław;899-020-17-46
+Wspólnota Mieszkaniowa Tapicerska 1-7, Rymarska 19;Tapicerska 1-7, Rymarska 19-37 ;Wrocław;894-275-22-01
+TOMASZ SKRZYPCZAK COM-BUD;Brochowska 21;Wrocław;8940013190
+WILLA TOPACZ Sp. z o.o.;Główna 12 ;Ślęza;5830007525
+WM ul. Idzikowskiego 18,18A,20,20A,22,24;Skarbowców 94C ;Wrocław;8992765453
+PIZZATOPIA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ;Szewska 22/10;Kraków;6762509159
+Przedsiębiorstwo Wielobranżowe PROMAD J.M. Barylak;Poznańska 7 i 12 ;Żmigród;895 170 16 28
+WM MALOWNICZY ZAKĄTEK 1, WYSOKA;al. gen. Józefa Hallera 84/2;Wrocław;8992748302
+Gospodarstwo Rolne Mariusz Turowski;Borek 39;Żmigród;915-100-28-17
+Ekookno Marek Dębicki ;Słoneczna 48 ;Wrocław;8942565806
+WSPÓLNOTA MIESZKANIOWA MARINA II;Księcia Witolda 1 ;Wrocław;8992740341
+Wspólnota Mieszkaniowa ul. Piękna 58, 58b, 58c;Piękna 58,58b,58c ;Wrocław;8971859433
+Gmina Oława;pl. marsz. Józefa Piłsudskiego 28 ;Oława;912-17-15-754
+MATAGO GROUP MATEUSZ GEMBICKI;Trzebnicka 28 ;Wrocław;6462549025
+Wspólnota Mieszkaniowa przy ul.Terenowej 4,4A, 4B,;Terenowa 4,4A,4B,4C ;Wrocław;8992681992
+MITSURO RESTAURANTS Sp. z o.o.;Wielka 20/5;Poznań;7781468568
+BETA-DERM S.C.;Powstańców Śląskich 48;Wrocław;8992748495
+AWAKEN REALMS Sp. z o.o.;Św. Mikołaja 58  ;Wrocław;8961538288
+ZACZAROWANA KRAINA KLUB MALUCHA AGATA;gen. Tadeusza Kutrzeby 51;Wrocław;898-113-23-36
+RTC Świeradowska Sp. z o.o.;Rondo ONZ 1 ;Warszawa;526-27-79-174
+Katolicka Szkoła Podstawowa Caritas Archdiecezji ;Podwalna 1, Kotowice ;Święta Katarzyna;8961386772
+WSPÓLNOTA MIESZKANIOWA MALOWNICZA 2, WYSOKA;al. gen. Józefa Hallera 84/2;Wrocław;8992759725
+GOSPODARSWO ROLNE TOMASZ KOWALSKI;Adama Mickiewicza 15, Nowy Dwór ;Jelcz Laskowice;9121461785
+GP STRATEGIES POLAND Sp. z o.o.;Strzegomska 138;Wrocław;8943050990
+MARGO Sp. z o.o.;Przemysłowa 11;Stalowa Wola;865 21 43 876
+Hauzer Clinic Sp z o.o. sp k;Orla 5c ;Żerniki Wrocławskie;8961589587
+Wspólnota Mieszkaniowa przy ul.Wiejskiej 12-14;Wiejska 12-14 ;Wrocław;8942818641
+WSPÓLNOTA MIESZKANIOWA UL.PIEPRZNA 5-7 WROCŁAW;al. gen. Józefa Hallera 84/2;Wrocław;8943148967
+RODZINA WYDMUCH Spółka Jawna;Bardzka 60 ;Wrocław;899-000-20-18
+Wspólnota Mieszkaniowa „Osiedle Złociste Jarzębiny;Skarbowców 94C;Wrocław;8951954915
+"O.B.P.P.i W.O.Ś. i B. ""Oikos"" Sp. z o.o.";Powstańców Śląskich 8 ;Święta Katarzyna;898-001-41-32
+Bist A Artur Domka;Pereca 19/6 ;Wrocław;894-183-37-13
+Wspólnota Mieszkaniowa ALTERNATYWY 5 ;Lubińska 5/5a ;Wrocław;897-16-97-367
+PHU EDYTA ŁUCZAK ;bł. Wincentego Kadłubka 20 ;Wrocław;8991276924
+DR DEVELOPER Sp. z o.o.;Brylantowa 3C ;Wrocław;8992733275
+SIECHNICKA INWESTYCYJNA SPÓŁKA KOMUNALNA Sp. z o.o;Jana Pawła II 12 ;Siechnice;8961532506
+NORTH COAST SA;3-go Maja 8 ;Pruszków;526-02-05-055
+"Wspólnowa Mieszkaniowa ""Ogrody Jordanowskie""";Jordanowska 76, ks.J.Dziereżonia 32-38 ;Wrocław;897-183-15-41
+KLIMEK Mirosław Klimek;Główna 68;Święta Katarzyna;8991400117
+WM PRZY UL. JANA PAWŁA II 1,3,5,7 SIECHNICE;Jana Pawła II 1,3,5,7 ;Siechnice;8961497862
+WSPÓLNOTA MIESZKANIOWA Ułańska 66-68 (Park Ołtaszy;pl. Strzelecki 20 ;Wrocław;8982242914
+AP LTD. Sp. z o.o  Sp.k.;Bierutowska 57/59B.1A;Wrocław;8951974125
+"WM""BIELANY I"" W BIELANACH WROCŁAWSKICH";al. gen. Józefa Hallera 84/2;Wrocław;8961486433
+GZT -TECHNIK MAŁGORZATA CZARNOMSKA;Radwanice, Piastowska 4 ;Św. Katarzyna;8961303728
+Forum Zarządzanie nieruchomościami Sp. z o. o. ;Skarbowców 94C ;Wrocław;8992547584
+KORFANTOWSKIE PRZEDSIĘBIORSTWO BUDOWLANE ;Łaciarska 4b ;Wrocław;8971803390
+Wspólnota Mieszkaniowa REZYDENCJA DUBOIS;Dubois Stanisława 7,9 ;Wrocław;897-181-77-88
+Krajowy Rejstr Długów Biuro Informacji Gospodarcze;Siedzikówny 12 ;Wrocław;895-17-94-707
+WSPÓLNOTA MIESZKANIOWA UL. SMARDZOWSKA 49-99C;al. gen. Józefa Hallera 84/2;Wrocław;8943142539
+DB PROJECT MAREK FIRGOLSKI;Strońska 13A/7;Wrocław;8281064897
+Wydawnictwa Akcydensowe S.A.;Łagiewnicka 39 ;Kraków;527-12-01-598
+"WSPÓLNOTA MIESZKANIOWA ""JĘCZMIENNA 10""";Galla Anonima 4/LU2;Wrocław;8971713310
+ELEKTRO-HURT.COM GARNCAREK MALWINA;Melchiora Wańkowicza 15;Radwanice;8821903368
+INTECH Przedsiebiorstwo Projektowo-Wykonawcze Mich;Wietrzna 123/4 ;Wrocław;899-113-09-94
+WM UL. WIEJSKA 3, 3A, 5, 5A, WROCŁAW;Galla Anonima 4/LU2;Wrocław;8942924429
+Wspólnota Mieszkaniowa ul. Kamieńskiego 55a;Kamieńskiego 55a ;Wrocław;895-18-42-458
+WOTIM KORZENIOWSCY SPÓŁKA JAWNA;Wieluńska 38;Kowale;5761575573
+WM PRZY UL.OSTRZESZOWSKIEJ 28/30 ;Ostrzeszowska 30/12;Wrocław;8951768093
+Eureka zarządzanie Nieruchomościami Sp. z o.o.;pl. Strzelecki 20 ;Wrocław;8982213605
+EVOTHERM Sp. z o.o. Sp. K.;Legnicka 51-53;Wrocław;8943018101
+"P.H.U. ""U-ROMKA"" S.C. ROMAN WOLNIAK, ";Wrocławska 57;Żmigród;9151776016
+LUXON Sp. z o.o.;Kwiatowa 45 ;Krępice;8942513867
+GLOBAL SYSTEM Sp. z o.o.;Romana Dmowskiego 15C/213 ;Wrocław;8982217106
+ANDRZEJ KIERDEJKO PRZEDSIĘBIORSTWO BUDOWLANE;Kwitnąca 43 ;Wrocław;8991044800
+JAMP Sp. z o.o.;Zajączkowska 1 ;Wrocław;8951789994
+AVIT SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ;Brzegowa 68;Strzelin;9141562762
+WSPÓLNOTA MIESZKANIOWA UL. REDYCKA 30-32 WROCŁAW;Redycka 30-32 ;Wrocław;9121928680
+EKOLAVIT Sp. z o.o.;Polna 12 ;Siechnice;8982215113
+Wspólnota Mieszkaniowa ul. Dzierżonia 16;Dzierżonia 16 ;Wrocław;8992761768
+"Spółdzielnia Mieszkaniowa ""Wrocławski Dom""";Grudziądzka 91a ;Wrocław;896-10-00-063
+"Izabela Michalak ""J.M""";Dwa światy 4, Bielany Wrocławskie ;Kobierzyce;8841045933
+ UL. WODNA 9,11,13 UL.B. KRZYWOUSTEGO 7,9,11 WRÓB;al. gen. Józefa Hallera 84/2;Wrocław;8943125096
+UL.WODNA 3,5,7  UL.B KRZYWOUSTEGO 13,15,17,WRÓBL.;al. gen. Józefa Hallera 84/2;Wrocław;8943094349
+Wspólnota Mieszkaniowa „Ville Monoform            ;Henryka III 4A, 4B ;Siechnice;8961594565
+CHRUPEX Wytwórnia Chrupek Bożena Cepuch;Strachocińska 230 ;Wrocław;895-000-09-29
+PRIMA MODA SPÓŁKA AKCYJNA;Krucza6/14 ;Warszawa;8971648802
+"PPHU ""ANNA"" Grzegorz Kusiński";Wysoka Radosna 9 ;Wrocław;899-001-93-61
+WSPÓLNOTA MIESZKANIOWA VILLA BLANCA;Skarbowców 94C;Wrocław;8992732873
+Tomasz Ciarachowicz;Bazyliowa 4/2;Wrocław;
+WM WROCŁAW UL.KAMIEŃSKIEGO 152-162 A,B;Galla Anonima 4/LU2;Wrocław;8951796089
+AA HERKULES BARTOSZ KRALA;ks. mjra Karola Woźniaka 18;Katowice;6342658208
+Wspólnota Mieszkaniowa ul. Motylkowa 6a;Motylkowa 6a ;Wrocław;899-27-00-867
+Wspólnota Mieszkaniowa Siostrzana 2-8;Siostrzana 2-8 ;Wrocław;8992658059
+POWIAT TRZEBNICKI;ks. Dziekana Wawrzyńca Bochenka 6 ;Trzebnica;9151605763
+WOMAK HOLDING S.A.;pl. Powstańców Śląskich 1 lok. 303 ;Wrocław;8971772732
+PWO Iwona Dąbrowska Marzena Chrzanowska s.c.;Centralna 37/1;Wrocław;8992804087
+NIJMAN/ZEETANK INTERNATIONAL TRANSPORT Sp. z o.o.;Zarzekowice 18;Sandomierz;5261019805
+WM UL. MIESZKA I 1-9 WRÓBLOWICE;al. gen. Józefa Hallera 84/2;Wrocław;8943065342
+WM UL.K.WIELKIEGO 2, 4, 6, 8, 10 WRÓBLOWICE;al. gen. Józefa Hallera 84/2;Wrocław;8943137484
+Transport Irena Jarząbek;Opolska 2;Siechnice;9120007469
+LWZ SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ;al. Niepodległości 2A;Żórawina;8961554442
+AUTO-BARTNIK SERWIS SAMOCHODOWY Emil Bartnik;Powstańców Śląskich 9/1;Święta Katarzyna;9111670659
+BIO-KOSMETYKA Sp. z o.o.;Kuźnicza  57/58;Wrocław;897-001-71-98
+ŹRÓDŁO MONTESSORI PRZEDSZKOLE NIEPUBLICZNE;Akacjowa 40 ;Ślęza;8942735326
+TAVIS T. CZEPIEL A. SKRZYPEK SPÓŁKA JAWNA;Złotnicka 8A/14;Wrocław;8943127505
+KONRAD FRĄCZEK RAFA;Łany, Owocowa 15 ;Kamieniec Wrocławski;8940047042
+"Wspólnota Mieszkaniowa ""Przy Ptasiej""";Podwórcowa 7,7a-b,9,9a-b ;Wrocław;8971848872
+Szpital Rehabilitacyjny;WILLOWA 4;Żmigród;915-15-18-314
+"Wspólnota Mieszkaniowa ""Zielony Las""";Osobowicka 155-159 ;Wrocław;8951991684
+Wspólnota Mieszkaniowa ul.Bierutowska 13-15;Bierutowska 13-15 ;Wrocław;8971758206
+Wspólnota Mieszkaniowa przy ul. Damrota 33-33A, ul;Damrota 33-33A, ul. Lompy 29 ;Wrocław;897-17-58-264
+MICRODIS ELECTRONICS SP. Z O.O.;Strzelińska 17 ;Żerniki Wrocławskie;8961345879
+"Wspólnota Mieszkaniowa Ul. Rydygiera 14-16; Brodat";Rydguera 14-16, Brodatego 13, Śrutowa 15 ;Wrocław;897 180 22 78
+"WSPÓLNOTA MIESZKANIOWA ""OGRODY BIELAŃSKIE II""";gen. Karola Kniaziewicza 37 ;Wrocław;8992854122
+"SPÓŁDZIELNIA MIESZKANIOWA ""BISKUPIN""";Maksymiliana Jackowskiego 57;Wrocław;8960003757
+OPEX SPÓŁKA AKCYJNA;Ozimska 153 ;Opole;7540335110
+Edyta Kargul Komornik Sądowy przy Sądzie Rejonowym;Gwarna 11/6;Wrocław;897-102-59-69
+"WM ""APATRON"" UL. MIŁA 1-2-3 OŁAWA";Miła 1-2-3 ;Oława;9121927829
+CITY KIDS CITY ENGLISH MARTA KADULSKA;Stanisława Leszczyńskiego 4 ;Wrocław;6321886022
+MODA VITO VERGELIS Sp. z o.o.;Szybka 6-10 ;Wrocław;51000066109
+WSPÓLNOTA MIESZKANIOWA BRZOZOWA 42-44, 42A-44A;pl. Strzelecki 20 20;Wrocław;8992732910
+WSPÓLNOTA MIESZKANIOWA UL.MGLISTA 16-18-20 - SKARB;marsz. Józefa Piłsudskiego 13/301 ;Wrocław;8992759599
+WSPÓLNOTA MIESZKANIOWA UL. ZABRODZKA 38-54;Zabrodzka 38-54;Wrocław;8971760054
+WSPÓLNOTA MIESZKANIOWA PRZY UL.KSIĘSKA 2-2A,ŚWIĄT;Skarbowców 94 C;Wrocław;8992580943
+"WSPÓLNOTA MIESZKANIOWA ""SŁONECZNE STABŁOWICE I""";al. gen. Józefa Hallera 84/2;Wrocław;8982211144
+ODDZIAŁ WROCŁAWSKI PTTK;Rynek-Ratusz 11/12;Wrocław;896-000-42-83
+Wspólnota Mieszkaniowa Przy ul. Płońskiego 7-9;Michała Płońskiego 7-9 ;Wrocław;894-29-80-758
+GEOMATIC SOFTWARE SOLUTIONS Sp. z o.o.;Sportowa 19 ;Kiełczów;8982139228
+WSPÓLNOTA MIESZKANIOWA UL.RYBACKA  38-40 W OŁAWIE;Rybacka 38-40 ;Oława;9121887952
+WM UL.GERBEROWA 20,22, GROTA 119-119A;Jana Ewangelisty Purkyniego 1;Wrocław;8971847329
+PWO IWONA DĄBROWSKA;52;Chrząstawa Mała;8981452058
+CONTRANS TI Sp. z o.o.;Polanowicka 66 ;Wrocław;895-00-10-282
+"WSPÓLNOTA MIESZKANIOWA ""NOWA KAMIENICA""";Marszałka Józefa Piłsudskiego 2-8;Siechnice;8961503692
+Rudnicki Henryk  Przewozy Autobusowe ;Wrocławska 52 ;Żmigród;915-122-27-66
+"PHU ""DARMAR"" Dariusz Marek";Krótka 2A ;Żmigród;915-107-10-43
+BOGDAN KOWALCZYK  PRZEDSIĘBIORSTWO HANDLOWO;Tadeusza Kościuszki 15B ;Żmigród;9151058031
+MUNIAK Sp. z o.o. Spółka Komandytowa;Dywizjonu 303 139/U2;Warszawa;5222911466
+Wspólnota Mieszkaniowa Jagiełły 5a-5b;Jiełbaśnicza 28 ;Wrocław;8982252901
+EY Global Services (Poland) Sp. z o.o.;Sucha 2 ;Wrocław;8971768647
+"FUNDACJA ""WROCŁAWSKIE HOSPICJUM DLA DZIECI""";Jedności Narodowej 47/47A/49A;Wrocław;8942923364
+Wspólnota Mieszkaniowa Złote Osiedle;Złotnicka 4 ;Wrocław;894-294-39-64
+WSPÓLNOTA MIESZKANIOWA UL.OFICERSKA 9-11 WROCŁAW;Oficerska 9-11 ;Wrocław;8992304350
+"WROCŁAWSKIE STOWARZYSZENIE NA RZECZ OSÓB ""BONITUM""";Legnicka 65;Wrocław;8943058106
+WM PRZY UL. GEN. JANA DĄBROWSKIEGO 18, ;gen. Jana Henryka Dąbrowskiego 18, Kniaziewicza 16,16a-b ;Wrocław;8971810071
+Europejskie Centrum Podatkowe Sp. z o.o. Spółka Do;Świeradowska 75 ;Wrocław;888-30-67-767
+"WSPÓLNOTA MIESZKANIOWA ""WILLA PROMENADA""";Promenada 28;Wrocław;8942975912
+"Niepubliczny Żłobek ""Baśniowa Kraina"" Agnieszka Ma";Gogolińska 7/7 ;Wrocław;611-241-69-21
+Wspólnota Mieszkaniowa ul.Poranna 26-28;Poranna 26-28 ;Oława;912-187-46-13
+VOGELSANG Sp.z o.o.;al. San Francisco 9;Rzeplin;8992567871
+"WSPÓLNOTA MIESZKANIOWA ""AGRESTOWA 12-14""";al. gen. Józefa Hallera 84/2;Wrocław;8971787188
+"WM ""BOREAL"" UL. MIŁA 8-9 OŁAWA";Miła 8-9 ;Oława;9121929952
+HOTEL TUMSKI & BARKA TUMSKA Sp. z o.o.;Wacława Berenta 33 ;Wrocław;8982202398
+Wspólnota Mieszkaniowa ul. Pawia 20;Pawia 20 ;Wrocław;899-25-07-320
+INVESTMENT –ZANDAR HOLDINGS LTD Sp.j;Legnicka 52 ;Wrocław; 894-31-20-650
+"Wspólnota Mieszkaniowa ""Witkowska 23-27""";Witkowska 23-27 ;Wrocław;895-193-94-88
+"Wspólnota Mieszkaniowa ""Leśna Polana""";Lipska 26-30 ;Wrocław;895-189-59-92
+INDUSTRADE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ;Główna 10;Święta Katarzyna;8961537952
+Biuro Koordynacji Projektu Ochrony Przeciwpowodzio;Al.Jaworowa 9-11 ;Wrocław;8971735398
+Małgorzata Jachimowska NEO-PROFIT;Społeczna 1a ;Wrocław;899-001-70-08
+EGENDOM Spółka z ograniczoną odpowiedzialnością;Marii Rodziewiczówny 8 lok. 2 ;Wrocław;894 30 49 277
+"DOM WESELNY ""STRZEMIENNA"" MAŁGORZATA ŁAŃCUCKA";Parkowa 1;Zębice;8971385461
+WOO TO GO JĘDRASIAK BARTOSZ;Hubska 74B ;Wrocław;6112501578
+WSPÓLNOTA MIESZKANIOWA UL. MIGDAŁOWA 1-15, CUKROWA;Migdałowa 1-15, Cukrowa 10 ;Wrocław;8992441466
+A & J COMPANY S.C. ANDRZEJ ADAMICZKA, JAKUB ;Obornicka 64 ;Wrocław;8951796132
+WOO Sp. z o.o.;Hubska 74B;Wrocław;8992802065
+"WSPÓLNOTA MIESZKANIOWA ""BADURY 16""";Jerzego Badury 16;Wrocław;8952218319
+Przedsiębiorstwo AVICENNA-OIL Wiktor Podlaski;Opolska 11-19 ;Wrocław;899-002-58-35
+STOWARZYSZENIE KATOLICKI RUCH ANTYNARKOTYCZNY;Kazimierza Pułaskiego 9;Radom;7961367490
+HYDRAL DEVELOPMENT Sp. z o.o.;Bierutowska 57-59 ;Wrocław;8943055585
+KOMORNIK SĄDOWY  JUSTYNA KOWALEWSKA;Buforowa 4E/8;Wrocław;8831810295
+Zakład Budowlano-Drogowy ;Tadeusza Kościuszki 8 ;Żmigród;915-000-44-93
+AMDM 2 Sp. z o.o.;Księcia Witolda 2 ;Wrocław;8982202375
+Wspólnota Mieszkaniowa ROYAL APARTAMENTS;Śrutowa 8-8A ;Wrocław;8971803728
+TRAWNIKI Sp. z o.o.;Krucza 68/9;Wrocław;8992684714
+WSPÓLNOTA MIESZKANIOWA UL.GÓRNICZA 51 WROCŁAW;al. gen. Józefa Hallera 84/2;Wrocław;8943130832
+WSPÓLNOTA MIESZKANIOWA ŚLEPA 7;Ślepa 7;Wrocław;8943052960
+Wspólnota Mieszkaniowa Kaszubska 9-9c;Kaszubska 9-9c ;Wrocław;897-181-40-63
+WSPÓLNOTA MIESZKANIOWA  UL.J.PIŁSUDSKIEGO 89, 89A ;Marszałka Józefa Piłsudskiego 89,89A ;Wrocław;8971814057
+Wspólnota Mieszkaniowa Ul. Piłsudskiego 91, 91a, ;Marszałka Józefa Piłsudskiego 91,91a,91b ;Wrocław;897 18139 80
+Wspólnota Mieszkaniowa ul. Pomorska 44;Pomorska 44 ;Wrocław;897-18-24-446
+PZŁ ZG Warszawa Zarząd Okręgowy Wrocław;Wodzisławska 10B ;Wrocław;526-030-04-63
+PARAFIA RZYMSKOKATOLICKA;Główna 16 ;Kotowice;8961520791
+KG Trading Sp. z o.o.;Oławska 5 ;Wrocław;8971786705
+PPHU BOMET BOGUSŁAW LENARCIK;Wileńska 8/8 /8;Żmigród;9151135725
+"Wspólnota Mieszkaniowa ""Na Kazamatach""";pl.Jana Pawła II 12,13a,18 ul.Wszystkich Świętych 13-23 ;Wrocław;8971858698
+WSPÓLNOTA MIESZKANIOWA OSIEDLE GRANITOWE;al. gen. Józefa Hallera 84/2;Wrocław;8943130588
+WSPÓLNOTA MIESZKANIOWA UL.DZIELNICOWA 4 WROCŁAW;al. gen. Józefa Hallera 84/2;Wrocław;8942973646
+WSPÓLNOTA MIESZKANIOWA UL. GRAWERSKA 30-32N WROCŁA;al. gen. Józefa Hallera 84 lok. 2 ;Wrocław;894-312-57-07
+"Wspólnota Mieszkaniowa  ""Lofty przy fosie"" ";Jana Ewangelisty Purkyniego 1;Wrocław;8971871807
+Wspólnota Mieszkaniowa ul. Kaszubska 10;Kaszubska 10 ;Wrocław;897-187-95-71
+WM UL. GRANITOWA 39-149 WROCŁAW;al. gen. Józefa Hallera 84/2;Wrocław;8943080850
+SMART USŁUGI STOLARSKIE M.DZIEDZIC K.BAGIŃSKI S.;Piotrkowska 76 ;Wrocław;8942977420
+QSP SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ;Antonia Vivaldiego 5A ;Wrocław;8992769586
+Centrum Edukacyjno - Terapeutyczne Supełek, ;Marszałka Józefa Piłsudskiego 8/15;Siechnice;5170115207
+DRAPAŁA ZARZĄDZANIE NIERUCHOMOŚCIAMI ;Galla Anonima 4/LU2 ;Wrocław;6131193882
+WSPÓLNOTA MIESZKANIOWA  KAMIEŃSKIEGO 57-63A ;Kamieńskiego 57-63a ;Wrocław;8951838296
+Kaczmarski Group Sp. z o.o.;Danuty Siedzikówny 12 ;Wrocław;8952053350
+GLOBALLOGIC SPÓŁKA AKCYJNA;Strzegomska 46B ;Wrocław;8942924978
+WSPÓLNOTA MIESZKANIOWA UL.JAŚMINOWA 1,3,5 WILKSZYN;al. gen. Józefa Hallera 84/2;Wrocław;8943144805
+WM UL.JAŚMINOWA 15,17,19 WILKSZYN;al. gen. Józefa Hallera 84/2;Wrocław;8943144780
+WM UL.JAŚMINOWA 16,18,20 WILKSZYN;al. gen. Józefa Hallera 84/2;Wrocław;8943144774
+WSPÓLNOTA MIESZKANIOWA UL.JAŚMINOWA 2,4,6 WILKSZYN;al. gen. Józefa Hallera 84/2;Wrocław;8943144811
+WM UL.JAŚMINOWA 7,9,11,13 WILKSZYN;al. gen. Józefa Hallera 84/2;Wrocław;8943144797
+WM UL.JAŚMINOWA 8,10,12,14 WILKSZYN;al. gen. Józefa Hallera 84/2;Wrocław;8943144768
+PALBET SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ;Władysława Broniewskiego 6/26;Tychy;6462934013
+CAROL U.Makos, J.Makos, K.Bykowska spółka cywiln;Grafitowa 8 Radwanice ;Święta Katarzyna;8961533747
+Wspólnota Mieszkaniowa „Lekcyjna 7b”;Lekcyjna 7 B ;Wrocław;895-188-85-03
+WSPÓLNOTA MIESZKANIOWA UL. POŁUDNIOWA 9-11 OŁAWA;Bolesława Chrobrego 20E;Oława;9121908909
+WSPÓLNOTA MIESZKANIOWA UL. POŁUDNIOWA 5-7 OŁAWA;Bolesława Chrobrego 20E;Oława;9121908890
+WSPÓLNOTA MIESZKANIOWA UL. PORANNA 2-2 A W OŁAWIE;Bolesława Chrobrego 20 E;Oława;9121880051
+CENTRUM MEDYCZNE - OMNI CLINIC Sp. z o.o.;Legnicka 56;Wrocław;8982233588
+Wspólnota Mieszkaniowa ,,APARTAMENT”;Osobowicka 25/19 ;Wrocław;895-177-86-49
+Wspólnota Mieszkaniowa Elementarzowa 12;pl. Strzelecki 20 ;Wrocław;895-187-14-48
+Wspólnota Mieszkaniowa ul. Nowoosadnicza 11A-11B-1;Nowoosadnicza 11A-11B-11C11D ;Oława;9121926089
+Wspólnota Mieszkaniowa 55-200 Oława ul. 11 Listopa;11 Listopada 2 ;Oława;912-192-86-74
+CodeTwo Sp. z o.o. Sp. k.;Wolności 16 ;Jelenia Góra;6112622141
+Rancher Przedsiębiorstwo Turystyczne- Waldemar W;Długopolska 32 ;Mędłów;8990012347
+"APTEKA ""RUMIANKOWA"" ""FEMI"" S.C.";Rumiankowa 53 ;Wrocław;898-18-90-835
+MJ AUTO Marcin Juśkiewicz;Jankowice 21a;Oława;9121776939
+"Firma Usługowo-Handlowa ""ALICJA"" Ryszard Ostrowski";Piastów Śląskich 1 ;Siechnice;912-106-23-06
+"Wspólnota Mieszkaniowa ""Przyjaźń""";Przyjaźni 40 ;Wrocław;8971583385
+ATM INWESTYCJE Sp. z o.o.;Dwa Światy 1 ;Bielany Wrocławskie;1080004301
+Wspólnota Mieszkaniowa ul. Sezamkowa 8-24;Sezamkowa 8-24 ;Wrocław;899-24-59-578
+RACZAK Władysław Raczak;Owocowa 13  ;Łany;8981167665
+PAGMER Sp. z o.o. Sp.k.;Wrocławska 37 ;Żmigród;6991912224
+ZAKŁAD WULKANIZACYJNY ARTEX Artur Garbowski;Wiosenna 11/2;Siechnice;9121237071
+"FIRMA HANDLOWO-BUDOWLANA ""JAN-BUD"" JAN CHORYSZNY";Frezjowa 41;Jelcz-Laskowice;9121022117
+Impel Catering  sp. z o.o. ;Ślężna 118 ;Wrocław;8942598912
+P.H.U. Tomasz Tarnowski;Adama Mickiewicza 28;Żmigród;915-159-39-13
+ZIARENKO HAPPY HOME DĄBROWSKA, MICHALSKA S.C.;Zabrodzie 7;Wrocław;8961552294
+WSPÓLNOTA MIESZKANIOWA PRZY UL. BLACHARSKIEJ 8B ;al. gen. Józefa Hallera 84/2;Wrocław;8942792910
+WSPÓLNOTA MIESZKANIOWA PRZY UL. BLACHARSKIEJ 8A;al. gen. Józefa Hallera 84/2;Wrocław;8942792904
+WSPÓLNOTA MIESZKANIOWA PRZY UL.BLACHARSKIEJ 8C ;al. gen. Józefa Hallera 84/2;Wrocław;8942796380
+WSPÓLNOTA MIESZKANIOWA PRZY UL. BLACHARSKIEJ 8D ;al. gen. Józefa Hallera 84/2;Wrocław;8942792896
+WSPÓLNOTA MIESZKANIOWA PRZY UL. BLACHARSKIEJ 8E ;al. gen. Józefa Hallera 84/2;Wrocław;8942792927
+WSPÓLNOTA MIESZKANIOWA PRZY UL. BLACHARSKIEJ 8H ;al. gen. Józefa Hallera 84/2;Wrocław;8942792956
+WSPÓLNOTA MIESZKANIOWA PRZY UL. BLACHARSKIEJ 8J ;al. gen. Józefa Hallera 84/2;Wrocław;8942792962
+WSPÓLNOTA MIESZKANIOWA UL. BLACHARSKA 8I ;al. gen. Józefa Hallera 84/2;Wrocław;8942804412
+WSPÓLNOTA MIESZKANIOWA UL. BLACHARSKA 8K ;al. gen. Józefa Hallera 84/2;Wrocław;8942796397
+WSPÓLNOTA MIESZKANIOWA PRZY UL. BLACHARSKIEJ 8L ;al. gen. Józefa Hallera 84/2;Wrocław;8942792979
+FARMACJA DOLNOŚLĄSKA;Borowska 213 ;Wrocław;897-16-69-336
+Spółdzielnia Mieszkaniowa Lokatorsko-Własnościowa;Żmigródek Główna 1 ;Żmigród;915-10-57-037
+Wspólnota Mieszkaniowa „ Zwycięska III” Ul. Zwycię;Zwycięska 32 ;Wrocław;899-266-70-70
+STOWARZYSZENIE RODZICÓW  ORATOR;Hugona Kołłątaja 32/9;Wrocław;8971622694
+"BRONISŁAW CEGIELSKI ""MICHAŁ"" ZAKŁAD ";Pawia 25;Wrocław;8991699004
+WM UL. MALOWNICZA 40A, 40B, 40C, 40D;al. gen. Józefa Hallera 84/2;Wrocław;8961549197
+FUH EL-WORLD BEATA SIEDLIK;Owczary 74 ;Oława;8991595032
+Anir Meble Ireneusz Łukaszewicz;Teodora Parnickiego 8/9;Wrocław;5371126442
+Wspólnota Mieszkaniowa ul.Jedności Narodowej 85 ;Jedności Narodowej 85 ;Wrocław;8981921240
+"WSPÓLNOTA MIESZKANIOWA ""MROZOWSKA 14""";Mrozowska 14;Wrocław;8943158701
+ AmRest Sp. z o.o;pl. Grunwaldzki 25-27 ;Wrocław;526-021-11-04
+Broel spółka z o.o.;Szybka 6-10 ;Wrocław;6981852785
+"LESZEK JAŚKIEWICZ NZOZ ""STOMATOLOGIA""";Powstańców Śląskich 148/4;Wrocław;8941914848
+SUPER LEK Sp. z o.o.;A. Hryniewickiego 6C/41 ;Gdynia;5862293072
+WM MALOWNICZA 24A 24B, 24C, 24D;al. gen. Józefa Hallera 84/2;Wrocław;8961540598
+TOMASZ GARPIEL PRO-PUBLICO;Blacharska 12B/6;Wrocław;6782735798
+Klich Marcin;Robotnicza 2 ;Zacharzyce;899-208-13-58
+TUVA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ;Robotnicza 2B ;Zacharzyce;8961555074
+CLIMBEX SPÓŁKA AKCYJNA;Dobrzeńska 64;Opole;7540026219
+WSPÓLNOTA MIESZKANIOWA UL.3-GO MAJA 8A-8B-8C-8D-8U;Bolesława Chrobrego 20E;Oława;9121873111
+DOMEK BIEDRONEK DANUTA WITKOWSKA;Piastów Śląskich 41 ;Siechnice;6131013035
+M I K trans Mirosław Kraśnicki;Jana Pawła II 7/1;Siechnice;8951380236
+NEUROSYS Sp. z o.o.;Mikołaja Reja 77/4A;Wrocław;8982206491
+"P.Z. ""NATURA"" wyrób Mebli Zdrowotnych";Wrocławska 70 ;Radwanice;8950010388
+WROPETROL Sp. z o.o.;Strzelińska 13;Żerniki Wrocławskie;8992429100
+HUNTER RYSZARD DANIŁOW;Ślężna 146-148 ;Wrocław;6491444524
+Martin Official Com Sp. z o.o. Sp. k.;Siedzikówny 12 ;Wrocław;7543079191
+KACZMARSKI INKASSO Sp. z o.o;Danuty Siedzikówny 12 ;Wrocław;8952012173
+FAM SA;Avicenny 16  ;Wrocław;875-000-27-63

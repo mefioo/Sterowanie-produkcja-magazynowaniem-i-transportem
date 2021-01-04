@@ -223,6 +223,7 @@ class read_data:
 
     def doBranchAndBound(self):
         first_node = self.init_first_node()  # stworzenie pierwszego wierzchołka dla branch&bound
+        print(first_node)
         self.bb(first_node)  # wykonanie branch&bound
 
 
