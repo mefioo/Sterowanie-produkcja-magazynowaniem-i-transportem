@@ -202,7 +202,7 @@ class read_data:
                 if node.node_cost != self.min and node.node_cost != self.sec_min:
                     self.nodes_list.pop(pos)
 
-            print(next_node)
+            self.path = next_node.parents
             self.bb(next_node)  # wywołanie metody dla następnego wierzchołka
 
     def init_first_node(self):
@@ -225,59 +225,3 @@ class read_data:
         first_node = self.init_first_node()  # stworzenie pierwszego wierzchołka dla branch&bound
         print(first_node)
         self.bb(first_node)  # wykonanie branch&bound
-
-
-# def changeZeroToInf(matrix): # change zeros to inf
-#     result = np.where(matrix == 0, np.inf, matrix)
-#     return result
-#
-#
-# def findMinAndSubstract(matrix, type='row'):
-#     i = 0
-#     result = []
-#     if type == 'column':
-#         matrix = matrix.T
-#     minimums = matrix.min(axis=1)
-#     for row in matrix:
-#         row = row - minimums[i]
-#         i = i + 1
-#         result.append(row)
-#     fin_result = np.array(result)
-#     if type == 'column':
-#         fin_result = fin_result.T
-#     return fin_result, minimums
-#
-#
-#
-#
-# mat = np.array([[0, 20, 30, 31, 28, 40],
-#                 [30, 0, 10, 14, 20, 44],
-#                 [40, 20, 0, 10, 22, 50],
-#                 [41, 24, 20, 0, 14, 42],
-#                 [38, 30, 32, 24, 0, 28],
-#                 [50, 54, 60, 52, 38, 0]])
-#
-# costs = mat
-#
-# size = 6
-# print(mat)
-# mat = changeZeroToInf(mat)
-# result, elements_sum = findMinAndSubstract(mat, 'column')
-# print(result)
-
-
-matrix = [[0, 20, 30, 31, 28, 40],
-            [40, 0, 20, 10, 22, 50],
-            [30, 10, 0, 14, 20, 44],
-            [41, 24, 20, 0, 14, 42],
-            [38, 30, 32, 24, 0, 28],
-            [50, 54, 60, 52, 38, 0]]
-
-size = 6
-
-data = read_data(matrix, size)
-data.prep_data()
-data.print_nicely(matrix)
-data.doBranchAndBound()
-
-print(data.min)

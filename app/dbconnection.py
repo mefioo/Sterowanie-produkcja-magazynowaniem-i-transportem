@@ -43,3 +43,24 @@ def finsService():
         return result
     except Exception as e:
         pass
+
+
+def findClient():
+    cursor.execute("SELECT * FROM client")
+    result = cursor.fetchall()
+    try:
+        return result
+    except Exception as e:
+        pass
+
+
+def findClientById(id):
+    cursor.execute("SELECT * FROM client WHERE ID_client = '{}'".format(id))
+    result = cursor.fetchall()
+    try:
+        return result[0]
+    except Exception as e:
+        pass
+
+
+
