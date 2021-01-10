@@ -45,22 +45,37 @@
               <li class="active"><a href="#">Home</a></li>
               <li><a href="#about">About</a></li>
               <li><a href="#contact">Contact</a></li>
+              <li><a href="{{ url_for('addReservation') }}">Dodaj rezerwację</a></li>
             </ul>
           </div><!--/.nav-collapse -->
         </div>
       </div>
     </div>
 
+    <div class="container mr-0" style="height: 40px;">
+        <div>
+            {% with messages = get_flashed_messages(with_categories=true) %}
+                {% if messages %}
+                    {% for category, message in messages %}
+                        <div class="alert alert-{{category}} text-center ml-2 mr-2">
+                            {{ message }}
+                        </div>
+                    {% endfor %}
+                {% endif %}
+            {% endwith %}
+        </div>
+
+    </div>
+
     <div class="container">
 
-      <h1>Bootstrap starter template</h1>
-      <p>Use this document as a way to quick start any new project.<br> All you get is this message and a barebones HTML document.</p>
+      {% block container %}
+
+      {% endblock container %}
 
     </div> <!-- /container -->
 
-    <!-- Le javascript
-    ================================================== -->
-    <!-- Placed at the end of the document so the pages load faster -->
+
 
   </body>
 </html>
