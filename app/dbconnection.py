@@ -36,7 +36,7 @@ def findClientsAndAddIfDBIsEmpty():
                 pass
 
 
-def finsService():
+def findService():
     cursor.execute("SELECT * FROM service")
     result = cursor.fetchall()
     try:
@@ -72,11 +72,29 @@ def findServiceIdByName(name):
         pass
 
 
+def findServiceTimeById(id):
+    cursor.execute("SELECT Time FROM service WHERE ID_service = '{}'".format(id))
+    result = cursor.fetchall()
+    try:
+        return result[0]
+    except Exception as e:
+        pass
+
+
 def findClientIdByName(name):
     cursor.execute("SELECT ID_client FROM client WHERE Name = '{}'".format(name))
     result = cursor.fetchall()
     try:
         return result[0]
+    except Exception as e:
+        pass
+
+
+def findReservationsByDate(date):
+    cursor.execute("SELECT * FROM service_reservations WHERE Date = '{}'".format(date))
+    result = cursor.fetchall()
+    try:
+        return result
     except Exception as e:
         pass
 

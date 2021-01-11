@@ -2,4 +2,34 @@
 
 {% block container %}
 
+<div class="row">
+        <div class="mid">
+          <div class="text-center">
+            <h1 class="maintext">
+              No to jedziemy!
+            </h1>
+          </div>
+        </div>
+        <div class="mid">
+          <div class="text-center">
+            <a href="{{ url_for('addReservation') }}">
+                <button type="button" class="mybtn">
+                    <i class="fas fa-search"></i> <br><br>
+                    Wyznacz trasę
+                </button>
+            </a>
+          </div>
+        </div>
+        <div class="mid">
+          <div class="text-center">
+            <a href="{{ url_for('addReservation') }}">
+                <button type="button" class="mybtn">
+                    <i class="fas fa-database"></i> <br><br>
+                    Dodaj rezerwację
+                </button>
+            </a>
+          </div>
+        </div>
+</div>
+
 {% endblock container %}

@@ -34,15 +34,17 @@ def addReservation():
         form.companyName.choices.append(client_name)
         services = db.findService()
     for service in services:
-        print(service)
         service_name = [service[2], service[2]]
         form.service.choices.append(service_name)
     if form.validate_on_submit():
-        company_id = db.findClientIdByName(form.companyName.data)
+        reservations = db.findReservationsByDate(form.date.data)
+        total_time = hp.countWorkingHoursFromDay(reservations)
         service_id = db.findServiceIdByName(form.service.data)
-        print(f"{company_id[0]} company name")
-        print(f"{service_id[0]} service id")
-        db.insertServiceReservation(form.date.data, company_id[0], service_id[0])
-        flash('Rezerwacja została dodana!', 'success')
-        return redirect(url_for('main'))
+        if total_time + db.findServiceTimeById(service_id[0])[0] < 7:
+            company_id = db.findClientIdByName(form.companyName.data)
+            db.insertServiceReservation(form.date.data, company_id[0], service_id[0])
+            flash('Rezerwacja została dodana!', 'success')
+            return redirect(url_for('main'))
+        else:
+            flash('Nie można wykonać rezerwacji w podanym terminie - pełen terminarz!', 'danger')
     return render_template('addReservation.html', title='Dodaj rezerwację zlecenia', form=form)

@@ -23,7 +23,7 @@ def findGeolocationFromAddress(addres):
 
 def countDistanceBetweenLocations(locationOne, locationTwo):
     distance = hs.haversine(locationOne, locationTwo, unit=Unit.METERS)
-    return float(format(distance, '.0f'))
+    return int(format(distance, '.0f'))
 
 
 def getAddressesOfClients(ids):
@@ -51,3 +51,10 @@ def generateMatrixForAlgorithm(addresses):
             row.append(countDistanceBetweenLocations(geolocation, geolocations[i]))
         costMatrix.append(row)
     return costMatrix, size
+
+
+def countWorkingHoursFromDay(reservations):
+    sum = 0
+    for reservation in reservations:
+        sum += db.findServiceTimeById(reservation[1])[0]
+    return sum
