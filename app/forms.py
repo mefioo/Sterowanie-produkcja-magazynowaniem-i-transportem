@@ -8,3 +8,8 @@ class addReservation(FlaskForm):
     companyName = SelectField('Nazwa firmy', choices=[])
     service = SelectField('Nazwa zlecenia', choices=[])
     submit = SubmitField('Dodaj rezerwację')
+
+
+class dailyRoute(FlaskForm):
+    date = SelectField('Data zlecenia', choices=[])
+    submit = SubmitField('Wyznacz trasę')

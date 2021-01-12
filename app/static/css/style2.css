@@ -4,6 +4,8 @@ body {
     background-repeat: no-repeat;
     display: flex;
     flex-direction: column;
+    background-position: center;
+    height: 100%;
 }
 
 .navbar {
@@ -98,4 +100,21 @@ body {
 
 .row {
     margin-top: 50px;
+}
+
+.form-control {
+width: 50%
+text-align: center;
+margin: auto;
+}
+
+.form-control-label {
+text-align: center;
+margin: auto;
+}
+
+.cont {
+display: flex;
+    width: 100%
+    margin: auto;
 }

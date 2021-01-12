@@ -99,8 +99,36 @@ def findReservationsByDate(date):
         pass
 
 
+def findDates():
+    cursor.execute("SELECT Date FROM service_reservations")
+    result = cursor.fetchall()
+    try:
+        return result
+    except Exception as e:
+        pass
+
+
+def findCompanyIdsInReservationsByDate(date):
+    cursor.execute("SELECT ID_client FROM service_reservations WHERE Date = '{}'".format(date))
+    result = cursor.fetchall()
+    try:
+        return result
+    except Exception as e:
+        pass
+
+
 def insertServiceReservation(date, company, service):
     sql_query = "INSERT INTO service_reservations (ID_client, ID_service, Date) VALUES ({}, {}, '{}')".format(company, service, date)
+    try:
+        cursor.execute(sql_query)
+        link.commit()
+        return True
+    except Exception as e:
+        return False
+
+
+def deletePOZUNIWER():
+    sql_query = "DELETE FROM service_reservations WHERE ID_client = 1"
     try:
         cursor.execute(sql_query)
         link.commit()
